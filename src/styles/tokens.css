@@ -597,7 +597,7 @@
  * Applied when the prototype is a dark-background screen.
  */
 
-:root {
+.theme-dark {
 	/* TEXT */
 	--ui-type-0: #ffffff;           /* primary text */
 	--ui-type-1: #e2e2e2;           /* secondary text */
@@ -664,7 +664,13 @@
  * Applied when the prototype is a light-background screen.
  */
 
-.theme-light {
+.theme-light,
+:root {
+	--ui-type-4: #c6c6c6;
+	--ui-surface-tertiary: transparent;
+	--ui-surface-tertiary--default--active: rgba(17 17 17 / 0.05);
+	--ui-surface-2--inverse: #242424;
+	--ui-surface-3--inverse: #303030;
 	/* TEXT */
 	--ui-type-0: #18181b;           /* primary text */
 	--ui-type-1: #474747;           /* secondary text */
