@@ -1,0 +1,722 @@
+/**
+ * Aftershoot Design System v2 — Primitive Tokens (L0)
+ *
+ * Naming convention (MUI-aligned):
+ *   --ui-{category}-{variant}-{scale}
+ *
+ *   category  → color | spacing | rounded | font-size | font-weight |
+ *                line-height | letter-spacing | stroke
+ *   variant   → hue name for colors (grey, blue, red…)
+ *   scale     → numeric step or named size
+ *
+ * These are raw values only. Never reference semantic tokens here.
+ * All semantic (L1) tokens are defined in l1-tokens-dark.scss / l1-tokens-light.scss.
+ */
+
+:root {
+
+  /* ==========================================================================
+     COLOR — Neutrals (Grey)
+     ========================================================================== */
+
+  --ui-color-grey-0:    #ffffff;
+  --ui-color-grey-50:   #fafafa;
+  --ui-color-grey-75:   #f6f6f6;
+  --ui-color-grey-100:  #f4f4f5;
+  --ui-color-grey-150:  #e4e4e7;
+  --ui-color-grey-200:  #e2e2e2;
+  --ui-color-grey-250:  #d4d4d8;
+  --ui-color-grey-300:  #c6c6c6;
+  --ui-color-grey-350:  #ababab;
+  --ui-color-grey-400:  #a1a1aa;
+  --ui-color-grey-450:  #919191;
+  --ui-color-grey-500:  #777777;
+  --ui-color-grey-550:  #71717a;
+  --ui-color-grey-600:  #5e5e5e;
+  --ui-color-grey-650:  #52525b;
+  --ui-color-grey-700:  #474747;
+  --ui-color-grey-750:  #3f3f46;
+  --ui-color-grey-800:  #303030;
+  --ui-color-grey-825:  #27272a;
+  --ui-color-grey-850:  #242424;
+  --ui-color-grey-875:  #1c1c1c;
+  --ui-color-grey-900:  #18181b;
+  --ui-color-grey-925:  #171717;
+  --ui-color-grey-950:  #111111;
+  --ui-color-grey-1000: #09090b;
+
+  /* Grey — alpha variants */
+  --ui-color-grey-0-alpha-35:   rgba(255 255 255 / 0.35);
+  --ui-color-grey-200-alpha-5:  rgba(226 226 226 / 0.05);
+  --ui-color-grey-200-alpha-10: rgba(226 226 226 / 0.10);
+  --ui-color-grey-200-alpha-20: rgba(226 226 226 / 0.20);
+  --ui-color-grey-500-alpha-40: rgba(119 119 119 / 0.40);
+  --ui-color-grey-600-alpha-12: rgba(119 119 119 / 0.12);
+  --ui-color-grey-600-alpha-40: rgba(119 119 119 / 0.40);
+  --ui-color-grey-950-alpha-3:  rgba(17 17 17 / 0.03);
+  --ui-color-grey-950-alpha-5:  rgba(17 17 17 / 0.05);
+  --ui-color-grey-950-alpha-10: rgba(17 17 17 / 0.10);
+  --ui-color-grey-950-alpha-20: rgba(17 17 17 / 0.20);
+  --ui-color-grey-950-alpha-35: rgba(17 17 17 / 0.35);
+  --ui-color-grey-950-alpha-40: rgba(17 17 17 / 0.40);
+  --ui-color-grey-950-alpha-85: rgba(17 17 17 / 0.85);
+
+  /* ==========================================================================
+     COLOR — Amber
+     ========================================================================== */
+
+  --ui-color-amber-50:  #fffbeb;
+  --ui-color-amber-100: #fef3c7;
+  --ui-color-amber-200: #fde68a;
+  --ui-color-amber-300: #fcd34d;
+  --ui-color-amber-400: #fbbf24;
+  --ui-color-amber-500: #f59e0b;
+  --ui-color-amber-600: #d97706;
+  --ui-color-amber-700: #b45309;
+  --ui-color-amber-800: #92400e;
+  --ui-color-amber-900: #78350f;
+  --ui-color-amber-950: #451a03;
+
+  /* ==========================================================================
+     COLOR — Blue
+     ========================================================================== */
+
+  --ui-color-blue-50:  #eff6ff;
+  --ui-color-blue-100: #dbeafe;
+  --ui-color-blue-200: #bfdbfe;
+  --ui-color-blue-300: #93c5fd;
+  --ui-color-blue-350: #8aacf5;
+  --ui-color-blue-400: #60a5fa;
+  --ui-color-blue-500: #3b82f6;
+  --ui-color-blue-550: #007bd5;
+  --ui-color-blue-600: #2563eb;
+  --ui-color-blue-700: #1d4ed8;
+  --ui-color-blue-800: #1e40af;
+  --ui-color-blue-900: #1e3a8a;
+  --ui-color-blue-950: #172554;
+  --ui-color-blue-975: #1e2a45;
+
+  /* Blue — alpha variants */
+  --ui-color-blue-550-alpha-12: rgba(0 123 213 / 0.12);
+  --ui-color-blue-550-alpha-40: rgba(0 123 213 / 0.40);
+  --ui-color-blue-600-alpha-40: rgba(37 99 235 / 0.40);
+  --ui-color-blue-700-alpha-40: rgba(29 78 216 / 0.40);
+
+  /* ==========================================================================
+     COLOR — Emerald
+     ========================================================================== */
+
+  --ui-color-emerald-50:  #ecfdf5;
+  --ui-color-emerald-100: #d1fae5;
+  --ui-color-emerald-200: #a7f3d0;
+  --ui-color-emerald-300: #6ee7b7;
+  --ui-color-emerald-400: #34d399;
+  --ui-color-emerald-500: #10b981;
+  --ui-color-emerald-600: #059669;
+  --ui-color-emerald-700: #047857;
+  --ui-color-emerald-800: #065f46;
+  --ui-color-emerald-900: #064e3b;
+  --ui-color-emerald-950: #022c22;
+
+  /* ==========================================================================
+     COLOR — Fuchsia
+     ========================================================================== */
+
+  --ui-color-fuchsia-50:  #fdf4ff;
+  --ui-color-fuchsia-100: #fae8ff;
+  --ui-color-fuchsia-200: #f5d0fe;
+  --ui-color-fuchsia-300: #f0abfc;
+  --ui-color-fuchsia-400: #e879f9;
+  --ui-color-fuchsia-500: #d946ef;
+  --ui-color-fuchsia-600: #c026d3;
+  --ui-color-fuchsia-700: #a21caf;
+  --ui-color-fuchsia-800: #86198f;
+  --ui-color-fuchsia-900: #701a75;
+  --ui-color-fuchsia-950: #4a044e;
+
+  /* ==========================================================================
+     COLOR — Green
+     ========================================================================== */
+
+  --ui-color-green-50:  #f0fdf4;
+  --ui-color-green-100: #dcfce7;
+  --ui-color-green-200: #bbf7d0;
+  --ui-color-green-300: #86efac;
+  --ui-color-green-400: #4ade80;
+  --ui-color-green-500: #22c55e;
+  --ui-color-green-600: #16a34a;
+  --ui-color-green-700: #15803d;
+  --ui-color-green-800: #166534;
+  --ui-color-green-900: #14532d;
+  --ui-color-green-950: #052e16;
+
+  /* Green — alpha variants */
+  --ui-color-green-700-alpha-10: rgba(21 128 61 / 0.10);
+  --ui-color-green-700-alpha-12: rgba(21 128 61 / 0.12);
+  --ui-color-green-700-alpha-40: rgba(21 128 61 / 0.40);
+
+  /* ==========================================================================
+     COLOR — Indigo
+     ========================================================================== */
+
+  --ui-color-indigo-50:  #eef2ff;
+  --ui-color-indigo-100: #e0e7ff;
+  --ui-color-indigo-200: #c7d2fe;
+  --ui-color-indigo-300: #a5b4fc;
+  --ui-color-indigo-400: #818cf8;
+  --ui-color-indigo-500: #6366f1;
+  --ui-color-indigo-600: #4f46e5;
+  --ui-color-indigo-700: #4338ca;
+  --ui-color-indigo-800: #3730a3;
+  --ui-color-indigo-900: #312e81;
+  --ui-color-indigo-950: #1e1b4b;
+
+  /* ==========================================================================
+     COLOR — Orange
+     ========================================================================== */
+
+  --ui-color-orange-50:  #fff7ed;
+  --ui-color-orange-100: #ffedd5;
+  --ui-color-orange-200: #fed7aa;
+  --ui-color-orange-300: #fdba74;
+  --ui-color-orange-400: #fb923c;
+  --ui-color-orange-500: #f97316;
+  --ui-color-orange-600: #ea580c;
+  --ui-color-orange-700: #c2410c;
+  --ui-color-orange-800: #9a3412;
+  --ui-color-orange-900: #7c2d12;
+  --ui-color-orange-950: #431407;
+
+  /* ==========================================================================
+     COLOR — Pink
+     ========================================================================== */
+
+  --ui-color-pink-50:  #fdf2f8;
+  --ui-color-pink-100: #fce7f3;
+  --ui-color-pink-200: #fbcfe8;
+  --ui-color-pink-300: #f9a8d4;
+  --ui-color-pink-400: #f472b6;
+  --ui-color-pink-500: #ec4899;
+  --ui-color-pink-600: #db2777;
+  --ui-color-pink-700: #be185d;
+  --ui-color-pink-800: #9d174d;
+  --ui-color-pink-900: #831843;
+  --ui-color-pink-950: #500724;
+
+  /* ==========================================================================
+     COLOR — Purple
+     ========================================================================== */
+
+  --ui-color-purple-50:  #faf5ff;
+  --ui-color-purple-100: #f3e8ff;
+  --ui-color-purple-200: #e9d5ff;
+  --ui-color-purple-300: #d8b4fe;
+  --ui-color-purple-400: #c084fc;
+  --ui-color-purple-500: #a855f7;
+  --ui-color-purple-600: #9333ea;
+  --ui-color-purple-700: #7e22ce;
+  --ui-color-purple-800: #6b21a8;
+  --ui-color-purple-900: #581c87;
+  --ui-color-purple-950: #3b0764;
+
+  /* ==========================================================================
+     COLOR — Red
+     ========================================================================== */
+
+  --ui-color-red-50:  #fef2f2;
+  --ui-color-red-100: #fee2e2;
+  --ui-color-red-200: #fecaca;
+  --ui-color-red-300: #fca5a5;
+  --ui-color-red-400: #f87171;
+  --ui-color-red-500: #ef4444;
+  --ui-color-red-600: #dc2626;
+  --ui-color-red-700: #b91c1c;
+  --ui-color-red-800: #991b1b;
+  --ui-color-red-900: #7f1d1d;
+  --ui-color-red-950: #450a0a;
+
+  /* Red — alpha variants */
+  --ui-color-red-500-alpha-12: rgba(239 68 68 / 0.12);
+  --ui-color-red-500-alpha-40: rgba(239 68 68 / 0.40);
+  --ui-color-red-600-alpha-10: rgba(220 38 38 / 0.10);
+
+  /* ==========================================================================
+     COLOR — Rose
+     ========================================================================== */
+
+  --ui-color-rose-50:  #fff1f2;
+  --ui-color-rose-100: #ffe4e6;
+  --ui-color-rose-200: #fecdd3;
+  --ui-color-rose-300: #fda4af;
+  --ui-color-rose-400: #fb7185;
+  --ui-color-rose-500: #f43f5e;
+  --ui-color-rose-600: #e11d48;
+  --ui-color-rose-700: #be123c;
+  --ui-color-rose-800: #9f1239;
+  --ui-color-rose-900: #881337;
+  --ui-color-rose-950: #4c0519;
+
+  /* ==========================================================================
+     COLOR — Sky
+     ========================================================================== */
+
+  --ui-color-sky-50:  #f0f9ff;
+  --ui-color-sky-100: #e0f2fe;
+  --ui-color-sky-200: #bae6fd;
+  --ui-color-sky-300: #7dd3fc;
+  --ui-color-sky-400: #38bdf8;
+  --ui-color-sky-500: #0ea5e9;
+  --ui-color-sky-600: #0284c7;
+  --ui-color-sky-700: #0369a1;
+  --ui-color-sky-800: #075985;
+  --ui-color-sky-900: #0c4a6e;
+  --ui-color-sky-950: #082f49;
+
+  /* ==========================================================================
+     COLOR — Teal
+     ========================================================================== */
+
+  --ui-color-teal-50:  #f0fdfa;
+  --ui-color-teal-100: #ccfbf1;
+  --ui-color-teal-200: #99f6e4;
+  --ui-color-teal-300: #5eead4;
+  --ui-color-teal-400: #2dd4bf;
+  --ui-color-teal-500: #14b8a6;
+  --ui-color-teal-600: #0d9488;
+  --ui-color-teal-700: #0f766e;
+  --ui-color-teal-800: #115e59;
+  --ui-color-teal-900: #134e4a;
+  --ui-color-teal-950: #042f2e;
+
+  /* ==========================================================================
+     COLOR — Violet
+     ========================================================================== */
+
+  --ui-color-violet-50:  #f5f3ff;
+  --ui-color-violet-100: #ede9fe;
+  --ui-color-violet-200: #ddd6fe;
+  --ui-color-violet-300: #c4b5fd;
+  --ui-color-violet-400: #a78bfa;
+  --ui-color-violet-500: #8b5cf6;
+  --ui-color-violet-600: #7c3aed;
+  --ui-color-violet-700: #6d28d9;
+  --ui-color-violet-800: #5b21b6;
+  --ui-color-violet-900: #4c1d95;
+  --ui-color-violet-950: #2e1065;
+
+  /* Violet — alpha variants */
+  --ui-color-violet-500-alpha-12: rgba(139 92 246 / 0.12);
+  --ui-color-violet-500-alpha-40: rgba(139 92 246 / 0.40);
+
+  /* ==========================================================================
+     COLOR — Yellow
+     ========================================================================== */
+
+  --ui-color-yellow-50:  #fefce8;
+  --ui-color-yellow-100: #fef9c3;
+  --ui-color-yellow-200: #fef08a;
+  --ui-color-yellow-300: #fde047;
+  --ui-color-yellow-400: #facc15;
+  --ui-color-yellow-500: #eab308;
+  --ui-color-yellow-600: #ca8a04;
+  --ui-color-yellow-700: #a16207;
+  --ui-color-yellow-800: #854d0e;
+  --ui-color-yellow-900: #713f12;
+  --ui-color-yellow-950: #422006;
+
+  /* Yellow — alpha variants */
+  --ui-color-yellow-600-alpha-12: rgba(202 138 4 / 0.12);
+  --ui-color-yellow-600-alpha-40: rgba(202 138 4 / 0.40);
+
+  /* ==========================================================================
+     COLOR — Special
+     ========================================================================== */
+
+  --ui-color-transparent: rgba(0 0 0 / 0);
+
+  /* ==========================================================================
+     SPACING
+     Scale: 1 unit = 1px (matches Figma spacing values directly)
+     ========================================================================== */
+
+  --ui-spacing-0:   0px;
+  --ui-spacing-0-5: 0.5px;
+  --ui-spacing-1:   1px;
+  --ui-spacing-2:   2px;
+  --ui-spacing-4:   4px;
+  --ui-spacing-6:   6px;
+  --ui-spacing-8:   8px;
+  --ui-spacing-10:  10px;
+  --ui-spacing-12:  12px;
+  --ui-spacing-16:  16px;
+  --ui-spacing-20:  20px;
+  --ui-spacing-24:  24px;
+  --ui-spacing-28:  28px;
+  --ui-spacing-32:  32px;
+  --ui-spacing-36:  36px;
+  --ui-spacing-40:  40px;
+  --ui-spacing-44:  44px;
+  --ui-spacing-48:  48px;
+  --ui-spacing-52:  52px;
+  --ui-spacing-56:  56px;
+  --ui-spacing-60:  60px;
+  --ui-spacing-64:  64px;
+  --ui-spacing-70:  70px;
+  --ui-spacing-74:  74px;
+  --ui-spacing-78:  78px;
+  --ui-spacing-82:  82px;
+
+  /* ==========================================================================
+     BORDER RADIUS
+     ========================================================================== */
+
+  --ui-rounded-none: 0px;
+  --ui-rounded-xs:   2px;
+  --ui-rounded-sm:   4px;
+  --ui-rounded-md:   6px;
+  --ui-rounded-lg:   8px;
+  --ui-rounded-xl:   12px;
+  --ui-rounded-2xl:  16px;
+  --ui-rounded-3xl:  24px;
+  --ui-rounded-4xl:  36px;
+  --ui-rounded-full: 9999px;
+
+  /* ==========================================================================
+     STROKE / BORDER WIDTH
+     ========================================================================== */
+
+  --ui-stroke-1: 0.75px;
+  --ui-stroke-2: 1px;
+  --ui-stroke-3: 1.25px;
+  --ui-stroke-4: 1.5px;
+
+  /* ==========================================================================
+     TYPOGRAPHY — Font Family
+     ========================================================================== */
+
+  --ui-font-family-base: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  /* ==========================================================================
+     TYPOGRAPHY — Font Weight
+     ========================================================================== */
+
+  --ui-font-weight-regular:  400;
+  --ui-font-weight-medium:   500;
+  --ui-font-weight-semibold: 600;
+
+  /* ==========================================================================
+     TYPOGRAPHY — Font Size
+     Token scale key (left) → px value (right)
+     ========================================================================== */
+
+  --ui-font-size-2:  10px;
+  --ui-font-size-3:  11px;
+  --ui-font-size-4:  12px;
+  --ui-font-size-5:  13px;
+  --ui-font-size-6:  14px;
+  --ui-font-size-8:  16px;
+  --ui-font-size-10: 18px;
+  --ui-font-size-12: 20px;
+  --ui-font-size-14: 24px;
+  --ui-font-size-16: 30px;
+  --ui-font-size-18: 36px;
+  --ui-font-size-20: 48px;
+
+  /* ==========================================================================
+     TYPOGRAPHY — Line Height
+     Token scale key (left) → px value (right)
+     ========================================================================== */
+
+  --ui-line-height-2:  10px;
+  --ui-line-height-3:  12px;
+  --ui-line-height-4:  16px;
+  --ui-line-height-5:  20px;
+  --ui-line-height-6:  24px;
+  --ui-line-height-7:  28px;
+  --ui-line-height-8:  32px;
+  --ui-line-height-9:  36px;
+  --ui-line-height-10: 40px;
+  --ui-line-height-11: 44px;
+  --ui-line-height-12: 48px;
+  --ui-line-height-13: 52px;
+
+  /* ==========================================================================
+     TYPOGRAPHY — Letter Spacing (Character Spacing)
+     ========================================================================== */
+
+  --ui-letter-spacing-0: 0px;
+  --ui-letter-spacing-1: 0.5px;
+
+
+  /* ==========================================================================
+     TYPOGRAPHY — Named Text Styles (Semantic Composites)
+     Convention: --ui-text-{category}-{size}-{weight-initial}
+     Each style bundles font-size + font-weight + line-height + letter-spacing.
+
+     Usage in JSX:
+       fontFamily:     'var(--ui-font-family-base)'
+       fontSize:       'var(--ui-text-body-14r-size)'
+       fontWeight:     'var(--ui-text-body-14r-weight)'
+       lineHeight:     'var(--ui-text-body-14r-line-height)'
+       letterSpacing:  'var(--ui-text-body-14r-tracking)'
+     ========================================================================== */
+
+  /* --------------------------------------------------------------------------
+     HEADING  (ui-text-heading-*)
+     All headings: letter-spacing 0
+     -------------------------------------------------------------------------- */
+
+  /* heading / 48-SB */
+  --ui-text-heading-48sb-size:        var(--ui-font-size-20);   /* 48px */
+  --ui-text-heading-48sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-heading-48sb-line-height: var(--ui-line-height-10); /* 40px */
+  --ui-text-heading-48sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 36-SB */
+  --ui-text-heading-36sb-size:        var(--ui-font-size-18);   /* 36px */
+  --ui-text-heading-36sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-heading-36sb-line-height: var(--ui-line-height-9);  /* 36px */
+  --ui-text-heading-36sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 30-SB */
+  --ui-text-heading-30sb-size:        var(--ui-font-size-16);   /* 30px */
+  --ui-text-heading-30sb-weight:      var(--ui-font-weight-medium);
+  --ui-text-heading-30sb-line-height: var(--ui-line-height-7);  /* 28px */
+  --ui-text-heading-30sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 20-SB */
+  --ui-text-heading-20sb-size:        var(--ui-font-size-12);   /* 20px */
+  --ui-text-heading-20sb-weight:      var(--ui-font-weight-medium);
+  --ui-text-heading-20sb-line-height: var(--ui-line-height-6);  /* 24px */
+  --ui-text-heading-20sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 16-SB */
+  --ui-text-heading-16sb-size:        var(--ui-font-size-8);    /* 16px */
+  --ui-text-heading-16sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-heading-16sb-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-heading-16sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 14-SB */
+  --ui-text-heading-14sb-size:        var(--ui-font-size-6);    /* 14px */
+  --ui-text-heading-14sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-heading-14sb-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-heading-14sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* heading / 13-SB */
+  --ui-text-heading-13sb-size:        var(--ui-font-size-5);    /* 13px */
+  --ui-text-heading-13sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-heading-13sb-line-height: var(--ui-line-height-4);  /* 16px */
+  --ui-text-heading-13sb-tracking:    var(--ui-letter-spacing-0);
+
+  /* --------------------------------------------------------------------------
+     BODY  (ui-text-body-*)
+     All body: letter-spacing 0
+     -------------------------------------------------------------------------- */
+
+  /* body / 16-R */
+  --ui-text-body-16r-size:        var(--ui-font-size-8);    /* 16px */
+  --ui-text-body-16r-weight:      var(--ui-font-weight-regular);
+  --ui-text-body-16r-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-body-16r-tracking:    var(--ui-letter-spacing-0);
+
+  /* body / 14-R */
+  --ui-text-body-14r-size:        var(--ui-font-size-6);    /* 14px */
+  --ui-text-body-14r-weight:      var(--ui-font-weight-regular);
+  --ui-text-body-14r-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-body-14r-tracking:    var(--ui-letter-spacing-0);
+
+  /* body / 13-R */
+  --ui-text-body-13r-size:        var(--ui-font-size-5);    /* 13px */
+  --ui-text-body-13r-weight:      var(--ui-font-weight-regular);
+  --ui-text-body-13r-line-height: var(--ui-line-height-4);  /* 16px */
+  --ui-text-body-13r-tracking:    var(--ui-letter-spacing-0);
+
+  /* body / 12-R */
+  --ui-text-body-12r-size:        var(--ui-font-size-4);    /* 12px */
+  --ui-text-body-12r-weight:      var(--ui-font-weight-regular);
+  --ui-text-body-12r-line-height: var(--ui-line-height-4);  /* 16px */
+  --ui-text-body-12r-tracking:    var(--ui-letter-spacing-0);
+
+  /* --------------------------------------------------------------------------
+     LABEL  (ui-text-label-*)
+     All labels: letter-spacing 0
+     -------------------------------------------------------------------------- */
+
+  /* label / 14-M */
+  --ui-text-label-14m-size:        var(--ui-font-size-6);    /* 14px */
+  --ui-text-label-14m-weight:      var(--ui-font-weight-medium);
+  --ui-text-label-14m-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-label-14m-tracking:    var(--ui-letter-spacing-0);
+
+  /* label / 13-M */
+  --ui-text-label-13m-size:        var(--ui-font-size-5);    /* 13px */
+  --ui-text-label-13m-weight:      var(--ui-font-weight-medium);
+  --ui-text-label-13m-line-height: var(--ui-line-height-5);  /* 20px */
+  --ui-text-label-13m-tracking:    var(--ui-letter-spacing-0);
+
+  /* label / 12-M */
+  --ui-text-label-12m-size:        var(--ui-font-size-4);    /* 12px */
+  --ui-text-label-12m-weight:      var(--ui-font-weight-medium);
+  --ui-text-label-12m-line-height: var(--ui-line-height-4);  /* 16px */
+  --ui-text-label-12m-tracking:    var(--ui-letter-spacing-0);
+
+  /* label / 11-M */
+  --ui-text-label-11m-size:        var(--ui-font-size-3);    /* 11px */
+  --ui-text-label-11m-weight:      var(--ui-font-weight-medium);
+  --ui-text-label-11m-line-height: var(--ui-line-height-3);  /* 12px */
+  --ui-text-label-11m-tracking:    var(--ui-letter-spacing-0);
+
+  /* label / 10-M */
+  --ui-text-label-10m-size:        var(--ui-font-size-2);    /* 10px */
+  --ui-text-label-10m-weight:      var(--ui-font-weight-medium);
+  --ui-text-label-10m-line-height: var(--ui-line-height-3);  /* 12px */
+  --ui-text-label-10m-tracking:    var(--ui-letter-spacing-0);
+
+  /* --------------------------------------------------------------------------
+     SUBHEADING  (ui-text-subheading-*)
+     All subheadings: ALL CAPS + letter-spacing 0.5px
+     Apply `text-transform: uppercase` alongside these tokens.
+     -------------------------------------------------------------------------- */
+
+  /* subheading / 12-SB */
+  --ui-text-subheading-12sb-size:        var(--ui-font-size-4);    /* 12px */
+  --ui-text-subheading-12sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-subheading-12sb-line-height: var(--ui-line-height-4);  /* 16px */
+  --ui-text-subheading-12sb-tracking:    var(--ui-letter-spacing-1); /* 0.5px */
+
+  /* subheading / 11-SB */
+  --ui-text-subheading-11sb-size:        var(--ui-font-size-3);    /* 11px */
+  --ui-text-subheading-11sb-weight:      var(--ui-font-weight-semibold);
+  --ui-text-subheading-11sb-line-height: var(--ui-line-height-3);  /* 12px */
+  --ui-text-subheading-11sb-tracking:    var(--ui-letter-spacing-1); /* 0.5px */
+}
+
+
+/**
+ * L1 Semantic Tokens — Dark Theme (Aftershoot App)
+ * Applied when the prototype is a dark-background screen.
+ */
+
+:root {
+	/* TEXT */
+	--ui-type-0: #ffffff;           /* primary text */
+	--ui-type-1: #e2e2e2;           /* secondary text */
+	--ui-type-2: #ababab;           /* tertiary text */
+	--ui-type-3: #777777;           /* placeholder / muted */
+	--ui-type-4: #474747;           /* disabled text */
+	--ui-type-white: #ffffff;
+	--ui-type-accent: #3b82f6;      /* blue accent text */
+	--ui-type-accent--default--error: #ef4444;
+	--ui-type-accent--default--success: #16a34a;
+	--ui-type-accent--default--warning: #eab308;
+	--ui-type-accent--default--disable: #474747;
+	--ui-type-accent--inverse: #09090b;
+	--ui-type-0--inverse: #18181b;
+	--ui-type-1--inverse: #474747;
+	--ui-type-2--inverse: #71717a;
+	--ui-type-3--inverse: #919191;
+	--ui-type-4--inverse: #c6c6c6;
+
+	/* SURFACES */
+	--ui-surface-0: #111111;        /* app background */
+	--ui-surface-1: #1c1c1c;        /* card / panel */
+	--ui-surface-2: #242424;        /* elevated surface */
+	--ui-surface-3: #303030;        /* highest surface */
+	--ui-surface-primary: #2563eb;
+	--ui-surface-primary--default--hover: #3b82f6;
+	--ui-surface-primary--default--active: #1d4ed8;
+	--ui-surface-primary--default--disable: #1e2a45;
+	--ui-surface-secondary: #303030;
+	--ui-surface-secondary--default--hover: #474747;
+	--ui-surface-secondary--default--active: #171717;
+	--ui-surface-secondary--default--disable: #27272a;
+	--ui-surface-tertiary: transparent;
+	--ui-surface-tertiary--default--active: rgba(226 226 226 / 0.05);
+	--ui-surface-negative: #dc2626;
+	--ui-surface-negative--default--hover: #ef4444;
+	--ui-surface-negative--default--active: #b91c1c;
+	--ui-surface-negative--default--disable: #991b1b;
+	--ui-surface-0--inverse: #fafafa;
+	--ui-surface-1--inverse: #ffffff;
+	--ui-surface-2--inverse: #f6f6f6;
+	--ui-surface-3--inverse: #e4e4e7;
+
+	/* BORDERS */
+	--ui-edge-0: #ffffff;
+	--ui-edge-1: #e2e2e2;
+	--ui-edge-2: #ababab;
+	--ui-edge-3: #777777;
+	--ui-edge-4: #5e5e5e;
+	--ui-edge-5: #474747;
+	--ui-edge-6: #303030;           /* default border */
+	--ui-edge-accent--default--focus: #8aacf5;
+
+	/* OVERLAYS */
+	--ui-surface-transparent--overlay0: rgba(17 17 17 / 0.85);
+	--ui-surface-transparent--overlay1: rgba(255 255 255 / 0.35);
+	--ui-surface-transparent--overlay2: rgba(226 226 226 / 0.05);
+	--ui-surface-transparent--overlay3: rgba(226 226 226 / 0.1);
+	--ui-surface-transparent--overlay4: rgba(226 226 226 / 0.2);
+}
+
+/**
+ * L1 Semantic Tokens — Light Theme (Gallery)
+ * Applied when the prototype is a light-background screen.
+ */
+
+.theme-light {
+	/* TEXT */
+	--ui-type-0: #18181b;           /* primary text */
+	--ui-type-1: #474747;           /* secondary text */
+	--ui-type-2: #71717a;           /* tertiary text */
+	--ui-type-3: #919191;           /* placeholder / muted */
+	--ui-type-white: #ffffff;
+	--ui-type-accent: #3b82f6;
+	--ui-type-accent--default--error: #ef4444;
+	--ui-type-accent--default--success: #16a34a;
+	--ui-type-accent--default--warning: #eab308;
+	--ui-type-accent--default--disable: #c6c6c6;
+	--ui-type-accent--inverse: #ffffff;
+	--ui-type-0--inverse: #ffffff;
+	--ui-type-1--inverse: #e2e2e2;
+	--ui-type-2--inverse: #ababab;
+	--ui-type-3--inverse: #777777;
+	--ui-type-4--inverse: #474747;
+
+	/* SURFACES */
+	--ui-surface-0: #fafafa;        /* page background */
+	--ui-surface-1: #ffffff;        /* card / panel */
+	--ui-surface-2: #f6f6f6;        /* slightly elevated */
+	--ui-surface-3: #e4e4e7;        /* highest surface */
+	--ui-surface-primary: #2563eb;
+	--ui-surface-primary--default--hover: #3b82f6;
+	--ui-surface-primary--default--active: #1d4ed8;
+	--ui-surface-primary--default--disable: #bfdbfe;
+	--ui-surface-secondary: #e4e4e7;
+	--ui-surface-secondary--default--hover: #e2e2e2;
+	--ui-surface-secondary--default--active: #d4d4d8;
+	--ui-surface-secondary--default--disable: #e4e4e7;
+	--ui-surface-negative: #dc2626;
+	--ui-surface-negative--default--hover: #ef4444;
+	--ui-surface-negative--default--active: #b91c1c;
+	--ui-surface-negative--default--disable: #991b1b;
+	--ui-surface-0--inverse: #111111;
+	--ui-surface-1--inverse: #09090b;
+
+	/* BORDERS */
+	--ui-edge-0: #09090b;
+	--ui-edge-1: #27272a;
+	--ui-edge-2: #474747;
+	--ui-edge-3: #777777;
+	--ui-edge-4: #d4d4d8;
+	--ui-edge-5: #e2e2e2;
+	--ui-edge-6: #e4e4e7;           /* default border */
+	--ui-edge-accent--default--focus: #8aacf5;
+
+	/* OVERLAYS */
+	--ui-surface-transparent--overlay0: rgba(17 17 17 / 0.85);
+	--ui-surface-transparent--overlay1: rgba(17 17 17 / 0.35);
+	--ui-surface-transparent--overlay2: rgba(17 17 17 / 0.05);
+	--ui-surface-transparent--overlay3: rgba(17 17 17 / 0.1);
+	--ui-surface-transparent--overlay4: rgba(17 17 17 / 0.2);
+}
