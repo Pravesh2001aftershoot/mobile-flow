@@ -53,7 +53,7 @@ export default function BrandKit({ back, draft, initial, onDone }) {
           <div className="col grow" style={{ gap: 4, minWidth: 0 }}>
             <span style={{ fontFamily: fontStack(previewTheme.font), fontSize: 20, lineHeight: 1.1, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{draft.name}</span>
             <span style={{ fontFamily: fontStack(previewTheme.descFont), fontSize: 12, color: "var(--ui-color-grey-550)" }}>{b.email || b.website || "hello@yourstudio.com"}</span>
-            <span className="row" style={{ marginTop: 4, alignSelf: "flex-start", gap: 4, background: b.primary, color: "var(--ui-type-white)", borderRadius: 4, padding: "4px 10px", fontSize: 11, fontWeight: 600 }}>
+            <span className="row" style={{ marginTop: 4, alignSelf: "flex-start", gap: 4, background: b.primary, color: "var(--ui-type-white)", borderRadius: "var(--ui-rounded-full)", padding: "4px 10px", fontSize: 11, fontWeight: 600 }}>
               <Icon name="shopping_bag" size={12} fill /> Shop prints
             </span>
           </div>

@@ -114,14 +114,14 @@ img { display: block; }
 /* ─── Buttons ─────────────────────────────────────────────────────────── */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: var(--ui-spacing-8);
-  height: 44px; padding: 0 var(--ui-spacing-20); border-radius: var(--ui-rounded-lg);
+  height: 44px; padding: 0 var(--ui-spacing-20); border-radius: var(--ui-rounded-full);
   border: var(--ui-stroke-2) solid transparent; cursor: pointer; white-space: nowrap;
   font-size: var(--ui-text-label-14m-size); font-weight: var(--ui-text-label-14m-weight); line-height: var(--ui-text-label-14m-line-height);
   transition: background 150ms, transform 100ms, opacity 150ms;
 }
 .btn:active { transform: scale(0.98); }
 .btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
-.btn-lg { height: 52px; border-radius: var(--ui-rounded-xl); font-size: var(--ui-text-label-14m-size); }
+.btn-lg { height: 52px; border-radius: var(--ui-rounded-full); font-size: var(--ui-text-label-14m-size); }
 .btn-sm { height: 32px; padding: 0 var(--ui-spacing-12); font-size: var(--ui-text-label-13m-size); }
 .btn-block { width: 100%; }
 .btn-primary { background: var(--ui-surface-primary); color: var(--ui-type-white); }
@@ -334,7 +334,7 @@ input[type="range"] { width: 100%; accent-color: var(--ui-surface-primary); }
 
 /* ─── Reveal ──────────────────────────────────────────────────────────── */
 .share-card { background: var(--ui-surface-1); border: var(--ui-stroke-2) solid var(--ui-edge-5); border-radius: var(--ui-rounded-2xl); padding: var(--ui-spacing-16); display: flex; flex-direction: column; gap: var(--ui-spacing-12); box-shadow: 0 -8px 30px var(--ui-color-grey-950-alpha-10); }
-.link-row { display: flex; align-items: center; gap: var(--ui-spacing-8); background: var(--ui-surface-2); border-radius: var(--ui-rounded-lg); padding: var(--ui-spacing-4) var(--ui-spacing-4) var(--ui-spacing-4) var(--ui-spacing-12); }
+.link-row { display: flex; align-items: center; gap: var(--ui-spacing-8); background: var(--ui-surface-2); border-radius: var(--ui-rounded-full); padding: var(--ui-spacing-4) var(--ui-spacing-4) var(--ui-spacing-4) var(--ui-spacing-12); }
 .link-row span.u { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .confetti { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 30; }
 .confetti i { position: absolute; top: -12px; width: 8px; height: 12px; border-radius: 2px; animation: fall 2.6s ease-in forwards; }
