@@ -40,7 +40,7 @@ const draftFromSample = (s) => ({
   photos: s.photos.slice(0, 30),
   setName: s.setName,
   theme: { ...DEFAULT_THEME, ...s.theme },
-  fallbackLogo: { dark: s.photographer.logoDark, light: s.photographer.logoLight },
+  fallbackLogo: { dark: s.photographer.logoDark, light: s.photographer.logoLight, links: s.photographer },
 });
 
 // `?jump=<screen>` opens a screen directly with demo data (QA / sharing a single step).

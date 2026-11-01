@@ -31,7 +31,7 @@ export default function SampleViewer({ back, sample, onCreate, onEdit, toast }) 
       <GalleryView
         data={data}
         theme={sample.theme}
-        fallbackLogo={{ dark: sample.photographer.logoDark, light: sample.photographer.logoLight }}
+        fallbackLogo={{ dark: sample.photographer.logoDark, light: sample.photographer.logoLight, links: sample.photographer }}
         bottomPad={110}
         coverInset={76}
         onToast={toast}
@@ -68,11 +68,12 @@ export default function SampleViewer({ back, sample, onCreate, onEdit, toast }) 
               </div></div>}
           <div className="float-bar" style={{ background: "var(--ui-surface-0)" }}>
             <div className="row gap-8">
-              {past && <button className="btn btn-secondary btn-lg" style={{ width: 52, padding: 0 }} onClick={back} aria-label="Back to samples"><Icon name="arrow_back" size={20} /></button>}
-              <button className="btn btn-secondary btn-lg grow" onClick={onEdit}>
-                <Icon name="tune" size={20} /> Edit this one
+              {past && <button className="btn btn-secondary btn-lg" style={{ width: 52, padding: 0, flex: "none" }} onClick={back} aria-label="Back to samples"><Icon name="arrow_back" size={20} /></button>}
+              {/* Drop the edit icon when the back button joins the row so both labels fit at 375px. */}
+              <button className="btn btn-secondary btn-lg" style={{ flex: "1 1 auto", padding: "0 var(--ui-spacing-12)" }} onClick={onEdit}>
+                {!past && <Icon name="tune" size={20} />} Edit this one
               </button>
-              <button className="btn btn-primary btn-lg grow" onClick={onCreate}>
+              <button className="btn btn-primary btn-lg" style={{ flex: "1 1 auto", padding: "0 var(--ui-spacing-12)" }} onClick={onCreate}>
                 <Icon name="add_photo_alternate" size={20} fill /> Create your own
               </button>
             </div>

@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import Cover, { Logo } from "./Cover";
+import Cover from "./Cover";
 import { Icon, IconBtn, useWidth } from "./ui";
-import { MASONRY_COLS, ROW_HEIGHT, SPACING, fontStack, img } from "../lib/theme";
+import { MASONRY_COLS, MAX_PER_ROW, ROW_HEIGHT, SPACING, fontStack, img } from "../lib/theme";
 
 function Watermark({ brand, scale = 1 }) {
   const wm = brand?.watermark;
@@ -30,6 +30,14 @@ function Tile({ p, w, h, onClick, liked, brand }) {
     </div>
   );
 }
+
+/** Phosphor fill icons, as used by the production gallery footer. */
+const FOOTER_ICONS = [
+  { key: "website", d: "M128,24h0A104,104,0,1,0,232,128,104.12,104.12,0,0,0,128,24Zm87.62,96H175.79C174,83.49,159.94,57.67,148.41,42.4A88.19,88.19,0,0,1,215.63,120ZM96.23,136h63.54c-2.31,41.61-22.23,67.11-31.77,77C118.45,203.1,98.54,177.6,96.23,136Zm0-16C98.54,78.39,118.46,52.89,128,43c9.55,9.93,29.46,35.43,31.77,77Zm52.18,93.6c11.53-15.27,25.56-41.09,27.38-77.6h39.84A88.19,88.19,0,0,1,148.41,213.6Z" },
+  { key: "facebook", d: "M232,128a104.16,104.16,0,0,1-91.55,103.26,4,4,0,0,1-4.45-4V152h24a8,8,0,0,0,8-8.53,8.17,8.17,0,0,0-8.25-7.47H136V112a16,16,0,0,1,16-16h16a8,8,0,0,0,8-8.53A8.17,8.17,0,0,0,167.73,80H152a32,32,0,0,0-32,32v24H96a8,8,0,0,0-8,8.53A8.17,8.17,0,0,0,96.27,152H120v75.28a4,4,0,0,1-4.44,4A104.15,104.15,0,0,1,24.07,124.09c2-54,45.74-97.9,99.78-100A104.12,104.12,0,0,1,232,128Z" },
+  { key: "instagram", d: "M176,24H80A56.06,56.06,0,0,0,24,80v96a56.06,56.06,0,0,0,56,56h96a56.06,56.06,0,0,0,56-56V80A56.06,56.06,0,0,0,176,24ZM128,176a48,48,0,1,1,48-48A48.05,48.05,0,0,1,128,176Zm60-96a12,12,0,1,1,12-12A12,12,0,0,1,188,80Zm-28,48a32,32,0,1,1-32-32A32,32,0,0,1,160,128Z" },
+  { key: "x", d: "M48,32H96l112,192H160ZM64,224,144,140M112,116,192,32", stroke: true },
+];
 
 /** Vertical (column masonry) and Horizontal (justified rows) — production `layoutStrategy`. */
 function Grid({ photos, theme, onOpen, likes, brand }) {
@@ -60,7 +68,7 @@ function Grid({ photos, theme, onOpen, likes, brand }) {
       cur.push({ p, i });
       ar += p.w / p.h;
       const rowW = ar * target + gap * (cur.length - 1);
-      if (rowW >= W) {
+      if (rowW >= W || cur.length === MAX_PER_ROW) {
         const h = (W - gap * (cur.length - 1)) / ar;
         rows.push(cur.map((x) => ({ ...x, h, w: (h * x.p.w) / x.p.h })));
         cur = [];
@@ -203,12 +211,9 @@ export default function GalleryView({
 
   const accent = brand?.primary || "#18181b";
   const b = brand || {};
-  const hasContact = b.email || b.phone || b.website;
-  const socials = [
-    b.instagram && { icon: "photo_camera", label: "Instagram" },
-    b.facebook && { icon: "thumb_up", label: "Facebook" },
-    b.x && { icon: "tag", label: "X" },
-  ].filter(Boolean);
+  // Production phone footer: a row of the photographer's link icons, nothing else.
+  const links = brand || fallbackLogo?.links || {};
+  const footerLinks = FOOTER_ICONS.filter((x) => links[x.key]);
 
   return (
     <div className="gv-wrap">
@@ -261,23 +266,11 @@ export default function GalleryView({
         <Grid photos={data.photos} theme={theme} onOpen={setLb} likes={likes} brand={brand} />
 
         <footer className="gv-footer">
-          <Logo brand={brand} fallbackLogo={fallbackLogo} height={32} theme={theme} />
-          {brand?.name && <span className="t-h4" style={{ color: "var(--ui-color-grey-900)" }}>{brand.name}</span>}
-          {hasContact && (
-            <div className="col gap-6 t-b13">
-              {b.email && <a href={`mailto:${b.email}`}><Icon name="mail" size={16} />{b.email}</a>}
-              {b.phone && <a href={`tel:${b.phone}`}><Icon name="call" size={16} />{b.phone}</a>}
-              {b.website && <a href="#" onClick={(e) => e.preventDefault()}><Icon name="language" size={16} />{b.website}</a>}
-            </div>
-          )}
-          {socials.length > 0 && (
-            <div className="socials t-l12">
-              {socials.map((s) => (
-                <span key={s.label} className="row gap-4"><Icon name={s.icon} size={12} />{s.label}</span>
-              ))}
-            </div>
-          )}
-          <span className="gv-powered t-b12">Powered by Aftershoot</span>
+          {footerLinks.map((l) => (
+            <a key={l.key} href="#" onClick={(e) => e.preventDefault()} aria-label={l.key}>
+              <svg width="16" height="16" viewBox="0 0 256 256" {...(l.stroke ? { fill: "none", stroke: "currentColor", strokeWidth: 20, strokeLinejoin: "round" } : { fill: "currentColor" })}><path d={l.d} /></svg>
+            </a>
+          ))}
         </footer>
         <div style={{ height: bottomPad }} />
       </div>

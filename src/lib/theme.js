@@ -52,7 +52,9 @@ export const fontStack = (name) => {
 export const BG_SWATCHES = ["#FFFFFF", "#F5F5F5", "#F0EDE5", "#1A1A1A", "#000000", "#3B3B3B"];
 
 export const SPACING = { none: 0, thin: 4, spaced: 10, airy: 20 };
-export const MASONRY_COLS = { small: 3, medium: 2, large: 1 };
+// Production caps phone grids at 2 photos per row.
+export const MAX_PER_ROW = 2;
+export const MASONRY_COLS = { small: 2, medium: 2, large: 1 };
 export const ROW_HEIGHT = { small: 96, medium: 150, large: 230 };
 
 export const isDark = (hex) => {
