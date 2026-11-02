@@ -11,9 +11,7 @@ export default function Welcome({ go, samples }) {
   return (
     <div className="screen">
       <div className="topbar">
-        <span className="row gap-8 t-h4 c0" style={{ paddingLeft: 8 }}>
-          <Icon name="photo_library" size={20} fill /> Aftershoot Galleries
-        </span>
+        <img src="/aftershoot-logo.svg" alt="Aftershoot" height={28} style={{ display: "block", marginLeft: 8 }} />
       </div>
       <div className="scroll col">
         <div className="collage">
