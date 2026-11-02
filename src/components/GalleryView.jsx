@@ -46,6 +46,7 @@ function Grid({ photos, theme, onOpen, likes, brand }) {
   const side = theme.gridSpacing === "none" ? 0 : gap;
 
   const layout = useMemo(() => {
+    // Measured on the unpadded wrapper, so spacing changes re-lay out immediately and evenly.
     const W = width - side * 2;
     if (W <= 0) return null;
     if (theme.layout === "masonry") {
@@ -80,26 +81,28 @@ function Grid({ photos, theme, onOpen, likes, brand }) {
   }, [photos, theme.layout, theme.gridSize, gap, side, width]);
 
   return (
-    <div ref={ref} className="gv-grid" style={{ padding: `0 ${side}px` }}>
-      {layout?.type === "masonry" && (
-        <div className="gv-masonry" style={{ gap }}>
-          {layout.cols.map((c, ci) => (
-            <div key={ci} style={{ gap }}>
-              {c.items.map((t) => (
+    <div ref={ref}>
+      <div className="gv-grid" style={{ padding: `0 ${side}px` }}>
+        {layout?.type === "masonry" && (
+          <div className="gv-masonry" style={{ gap }}>
+            {layout.cols.map((c, ci) => (
+              <div key={ci} style={{ gap }}>
+                {c.items.map((t) => (
+                  <Tile key={t.p.id} {...t} brand={brand} liked={likes.has(t.p.id)} onClick={() => onOpen(t.i)} />
+                ))}
+              </div>
+            ))}
+          </div>
+        )}
+        {layout?.type === "rows" &&
+          layout.rows.map((r, ri) => (
+            <div key={ri} className="gv-row" style={{ gap, marginBottom: gap }}>
+              {r.map((t) => (
                 <Tile key={t.p.id} {...t} brand={brand} liked={likes.has(t.p.id)} onClick={() => onOpen(t.i)} />
               ))}
             </div>
           ))}
-        </div>
-      )}
-      {layout?.type === "rows" &&
-        layout.rows.map((r, ri) => (
-          <div key={ri} className="gv-row" style={{ gap, marginBottom: gap }}>
-            {r.map((t) => (
-              <Tile key={t.p.id} {...t} brand={brand} liked={likes.has(t.p.id)} onClick={() => onOpen(t.i)} />
-            ))}
-          </div>
-        ))}
+      </div>
     </div>
   );
 }
