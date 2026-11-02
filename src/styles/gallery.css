@@ -15,10 +15,6 @@
   background: none; border: none; padding: 0; cursor: pointer; color: inherit;
   font-size: var(--ui-text-label-13m-size); letter-spacing: 1.5px; text-transform: uppercase;
 }
-.cv-enter.solid { padding: var(--ui-spacing-12) var(--ui-spacing-24); border-radius: var(--ui-rounded-xs); color: var(--ui-type-white); }
-.cv-enter.outline { padding: var(--ui-spacing-12) var(--ui-spacing-24); border: var(--ui-stroke-2) solid currentColor; border-radius: var(--ui-rounded-xs); }
-.cv-bounce { animation: bounce 1.8s ease-in-out infinite; }
-@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(6px); } }
 .cv-logo-img { object-fit: contain; }
 
 /* Sticky nav */

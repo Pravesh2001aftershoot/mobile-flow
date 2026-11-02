@@ -7,17 +7,11 @@ export const IMG_BASE = "https://ik.imagekit.io/dwzdwysifn/cdnProd/";
 export const img = (p, w = 800) => (p?.src ? p.src : `${IMG_BASE}tr:w-${w},c-at_max,q-75/${p.path}`);
 
 // Production template ids (subset that reads well on a phone).
+// Only the cover styles the sample galleries use.
 export const TEMPLATES = [
   { id: "editorial-love", label: "Editorial Love" },
   { id: "side-note", label: "Side Note" },
   { id: "side-story", label: "Side Story" },
-  { id: "center-stage", label: "Pure Elegance" },
-  { id: "overlay-center", label: "Overlay Center" },
-  { id: "overlay-bottom-center", label: "Overlay Bottom" },
-  { id: "split-top", label: "Split Top" },
-  { id: "framed-modern", label: "Framed Modern" },
-  { id: "minimal-centered", label: "Minimal Arch" },
-  { id: "bottom-story", label: "Bottom Story" },
 ];
 
 export const TITLE_FONTS = [

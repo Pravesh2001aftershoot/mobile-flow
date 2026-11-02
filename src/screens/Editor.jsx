@@ -143,7 +143,7 @@ export default function Editor({ back, draft, setDraft, onNext, toast }) {
               <div className="col gap-12">
                 <span className="ctrl-label t-l12">Cover background</span>
                 <Swatches value={t.bg} onChange={(c) => setTheme({ bg: c, ...textForBg(c) })} colors={BG_SWATCHES} />
-                <span className="t-b12 c3">Shows behind the cover on styles with a margin, like Editorial Love or Pure Elegance.</span>
+                <span className="t-b12 c3">Shows behind the cover around the photo and text.</span>
               </div>
               <div className="col gap-12">
                 <span className="ctrl-label t-l12">Title colour</span>

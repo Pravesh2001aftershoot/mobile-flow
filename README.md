@@ -11,7 +11,7 @@ A mobile-first onboarding flow for new Aftershoot Galleries users. It runs from 
 | 3 | Sample gallery in client view: cover, grid, full-screen photos, favourites. Has guided tips plus **Edit this one** and **Create your own** | `src/screens/SampleViewer.jsx` |
 | 4 | Upload: up to 10 photos that stay in the browser. "Use sample photos" is a fallback | `src/screens/Upload.jsx` |
 | 5 | Building animation | `src/screens/Building.jsx` |
-| 6 | Design editor: Cover (10 production templates, cover photo), Grid (Vertical/Horizontal, size, spacing), Type, Colour | `src/screens/Editor.jsx` |
+| 6 | Design editor: Cover (the 3 styles the sample galleries use: Editorial Love, Side Note, Side Story; cover photo), Grid (Vertical/Horizontal, size, spacing), Type, Colour | `src/screens/Editor.jsx` |
 | 7 | "Want to personalise it?" prompt, then brand kit: logo, studio name, colours, fonts, contact, socials, watermark | `src/screens/Prompts.jsx`, `src/screens/BrandKit.jsx` |
 | 8 | Final reveal with a share link | `src/screens/Reveal.jsx` |
 | 9 | "Want to monetise it?" prompt, then the client print store: products, options, bag, checkout, confirmation | `src/screens/Store.jsx` |
