@@ -32,7 +32,7 @@ export default function Samples({ back, go, samples, visited, onOpen }) {
           </p>
         </div>
 
-        <div className="row gap-8 hide-scrollbar" style={{ overflowX: "auto", padding: "0 20px 16px" }}>
+        <div className="row gap-8 hide-scrollbar" style={{ flexShrink: 0, overflowX: "auto", overflowY: "hidden", padding: "2px 20px 16px", marginTop: -2 }}>
           {CATS.map((c) => (
             <button key={c} className={`chip ${cat === c ? "active" : ""}`} onClick={() => pickCat(c)}>
               {c}
