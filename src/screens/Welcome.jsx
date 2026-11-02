@@ -10,8 +10,8 @@ export default function Welcome({ go, samples }) {
   ];
   return (
     <div className="screen">
-      <div className="topbar">
-        <img src="/aftershoot-logo.svg" alt="Aftershoot" height={28} style={{ display: "block", marginLeft: 8 }} />
+      <div className="topbar" style={{ justifyContent: "center" }}>
+        <img src="/aftershoot-logo.svg" alt="Aftershoot" height={28} style={{ display: "block" }} />
       </div>
       <div className="scroll col">
         <div className="collage">
