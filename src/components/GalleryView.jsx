@@ -125,14 +125,13 @@ function Lightbox({ photos, index, setIndex, onClose, likes, toggleLike, brand, 
     return () => window.removeEventListener("keydown", k);
   });
   const liked = likes.has(p.id);
+  // Mirrors the production phone viewer: white, close + count + filename on top, actions centred below.
   return (
     <div className="lb">
       <div className="lb-top">
-        <IconBtn icon="close" onClick={onClose} label="Close" />
-        <span className="t-l13" style={{ opacity: 0.8 }}>
-          {index + 1} / {photos.length}
-        </span>
-        <IconBtn icon="favorite" fill={liked} onClick={() => toggleLike(p.id)} label="Favourite" style={liked ? { color: brand?.accent || "#f43f5e" } : undefined} />
+        <button className="lb-close" onClick={onClose} aria-label="Close"><Icon name="close" size={20} /></button>
+        <span className="lb-count">{index + 1} / {photos.length}</span>
+        <span className="lb-name">{p.name || `IMG_${String(index + 1).padStart(4, "0")}.jpg`}</span>
       </div>
       <div
         className="lb-stage"
@@ -142,21 +141,25 @@ function Lightbox({ photos, index, setIndex, onClose, likes, toggleLike, brand, 
           const dx = e.changedTouches[0].clientX - (touch.current ?? 0);
           if (Math.abs(dx) > 50) go(dx < 0 ? 1 : -1);
         }}
+        onClick={(e) => {
+          // No arrows on phone in production: tap the left or right third to step, like a swipe.
+          const r = e.currentTarget.getBoundingClientRect();
+          const x = (e.clientX - r.left) / r.width;
+          if (x < 0.33) go(-1);
+          else if (x > 0.67) go(1);
+        }}
       >
         <div style={{ position: "relative", maxWidth: "100%", maxHeight: "100%", display: "flex" }}>
           <img key={p.id} src={img(p, 1000)} alt="" width={p.w} height={p.h} style={{ width: "auto", height: "auto", maxWidth: "100%", maxHeight: stageH, objectFit: "contain", aspectRatio: `${p.w} / ${p.h}`, backgroundImage: `url("${img(p, 500)}")`, backgroundSize: "cover" }} />
           <Watermark brand={brand} scale={1.6} />
         </div>
-        <IconBtn icon="chevron_left" className="lb-nav" style={{ left: 4 }} onClick={() => go(-1)} label="Previous" />
-        <IconBtn icon="chevron_right" className="lb-nav" style={{ right: 4 }} onClick={() => go(1)} label="Next" />
       </div>
       <div className="lb-bottom">
-        <IconBtn icon="download" onClick={() => onToast?.("Download started (demo)")} label="Download" />
-        <IconBtn icon="ios_share" onClick={() => onToast?.("Share sheet opens here (demo)")} label="Share" />
+        <button onClick={() => toggleLike(p.id)} aria-label="Favourite" style={liked ? { color: "#f43f5e" } : undefined}><Icon name="favorite" size={20} fill={liked} /></button>
+        <button onClick={() => onToast?.("Share sheet opens here (demo)")} aria-label="Share"><Icon name="reply" size={20} style={{ transform: "scaleX(-1)" }} /></button>
+        <button onClick={() => onToast?.("Download started (demo)")} aria-label="Download"><Icon name="download" size={20} /></button>
         {store?.enabled && (
-          <button className="lb-buy" style={{ background: brand?.primary || "#2563eb" }} onClick={() => store.onBuy(p)}>
-            <Icon name="shopping_bag" size={16} fill /> Buy print
-          </button>
+          <button onClick={() => store.onBuy(p)} aria-label="Buy print" style={{ color: brand?.primary || "#2563eb" }}><Icon name="shopping_bag" size={20} /></button>
         )}
       </div>
     </div>
@@ -172,6 +175,7 @@ export default function GalleryView({
   theme,
   brand,
   fallbackLogo,
+  navInset,
   store,
   focus,
   bottomPad = 0,
@@ -226,7 +230,7 @@ export default function GalleryView({
           <Cover data={data} theme={theme} brand={brand} fallbackLogo={fallbackLogo} onEnter={enter} />
         </div>
 
-        <div className="gv-nav">
+        <div className="gv-nav" style={navInset ? { paddingLeft: navInset } : undefined}>
           <span className="name" style={{ fontFamily: fontStack(theme.font) }}>
             {data.name || "Untitled gallery"}
           </span>

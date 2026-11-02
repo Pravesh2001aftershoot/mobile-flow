@@ -408,7 +408,7 @@ export default function Store({ back, draft, brand, cart, setCart, onOrdered, on
                 <span className="ic"><Icon name="storefront" size={16} fill /></span>
                 <span className="col grow" style={{ gap: 2 }}>
                   <span className="t-h4 c0">Your print store is live</span>
-                  <span className="t-b12 c2">This is what clients see. Tap the bag, the shop banner, or “Buy print” on any photo.</span>
+                  <span className="t-b12 c2">This is what clients see. Tap the bag, the shop banner, or the bag icon under any full-screen photo.</span>
                 </span>
                 <button className="icon-btn" style={{ width: 28, height: 28 }} onClick={() => setTip(false)} aria-label="Dismiss"><Icon name="close" size={16} /></button>
               </div>

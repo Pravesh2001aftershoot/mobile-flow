@@ -32,8 +32,9 @@ export default function SampleViewer({ back, sample, onCreate, onEdit, toast }) 
         data={data}
         theme={sample.theme}
         fallbackLogo={{ dark: sample.photographer.logoDark, light: sample.photographer.logoLight, links: sample.photographer }}
-        bottomPad={110}
-        coverInset={76}
+        bottomPad={170}
+        coverInset={136}
+        navInset={past ? 64 : 0}
         onToast={toast}
         onScroll={({ pastCover }) => {
           setPast(pastCover);
@@ -50,12 +51,14 @@ export default function SampleViewer({ back, sample, onCreate, onEdit, toast }) 
 
       {!inLightbox && (
         <>
-          {!past && <div className="float-top">
-            <IconBtn icon="arrow_back" solid onClick={back} label="Back to samples" />
-            <span className="pill t-l12">
-              <Icon name="visibility" size={16} /> Client view · {sample.category}
-            </span>
-          </div>}
+          <div className="float-top">
+            <IconBtn icon="arrow_back" solid onClick={back} label="Back to samples" style={past ? { marginTop: -6 } : undefined} />
+            {!past && (
+              <span className="pill t-l12">
+                <Icon name="visibility" size={16} /> Client view · {sample.category}
+              </span>
+            )}
+          </div>
           {showTip && <div style={{ position: "absolute", top: past ? 60 : 64, left: 12, right: 12, zIndex: 20 }}><div className="tip">
                 <span className="ic">
                   <Icon name={showTip.icon} size={16} fill />
@@ -67,16 +70,12 @@ export default function SampleViewer({ back, sample, onCreate, onEdit, toast }) 
                 <IconBtn icon="close" size={16} onClick={() => setDismissed(true)} label="Dismiss tip" style={{ width: 28, height: 28 }} />
               </div></div>}
           <div className="float-bar" style={{ background: "var(--ui-surface-0)" }}>
-            <div className="row gap-8">
-              {past && <button className="btn btn-secondary btn-lg" style={{ width: 52, padding: 0, flex: "none" }} onClick={back} aria-label="Back to samples"><Icon name="arrow_back" size={20} /></button>}
-              {/* Drop the edit icon when the back button joins the row so both labels fit at 375px. */}
-              <button className="btn btn-secondary btn-lg" style={{ flex: "1 1 auto", padding: "0 var(--ui-spacing-12)" }} onClick={onEdit}>
-                {!past && <Icon name="tune" size={20} />} Edit this one
-              </button>
-              <button className="btn btn-primary btn-lg" style={{ flex: "1 1 auto", padding: "0 var(--ui-spacing-12)" }} onClick={onCreate}>
-                <Icon name="add_photo_alternate" size={20} fill /> Create your own
-              </button>
-            </div>
+            <button className="btn btn-primary btn-lg btn-block" onClick={onCreate}>
+              <Icon name="add_photo_alternate" size={20} fill /> Create your own
+            </button>
+            <button className="btn btn-secondary btn-lg btn-block" onClick={onEdit}>
+              <Icon name="tune" size={20} /> Edit this one
+            </button>
           </div>
         </>
       )}

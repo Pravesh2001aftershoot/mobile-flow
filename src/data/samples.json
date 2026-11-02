@@ -1,2444 +1,2799 @@
 [
- {
-  "key": "gallery",
-  "category": "Wedding",
-  "name": "Kaiya and Drew Engagement",
-  "description": "Ektar and Portra",
-  "eventDate": "2026-10-21T08:08:35.291Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/gallery",
-  "imageCount": 159,
-  "cover": {
-   "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f5.jpg",
-   "w": 2000,
-   "h": 1333,
-   "fx": 48,
-   "fy": 58
+  {
+    "key": "gallery",
+    "category": "Wedding",
+    "name": "Kaiya and Drew Engagement",
+    "description": "Ektar and Portra",
+    "eventDate": "2026-10-21T08:08:35.291Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/gallery",
+    "imageCount": 159,
+    "cover": {
+      "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f5.jpg",
+      "w": 2000,
+      "h": 1333,
+      "fx": 48,
+      "fy": 58
+    },
+    "theme": {
+      "template": "side-note",
+      "bg": "#FFFFFF",
+      "font": "Playfair Display",
+      "fontWeight": "300",
+      "textColor": "#474747",
+      "descFont": "Afacad",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "thin",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
+      "logoLight": "",
+      "email": "maddnessphoto@gmail.com",
+      "website": "https://www.maddnessphotography.com/",
+      "instagram": "https://www.instagram.com/maddness.photography/"
+    },
+    "setName": "Sneak Peeks",
+    "photos": [
+      {
+        "id": "6ad87568ba97ce551c30f4d7",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d7.jpg?v=1",
+        "w": 1334,
+        "h": 1999,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02948-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4d6",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d6.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01325-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4d8",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d8.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02948-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4d9",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01325-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4da",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4da.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02948-4.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4db",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4db.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01203.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4dc",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4dc.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01228.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4dd",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4dd.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-03007.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4de",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4de.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01298.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4df",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4df.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02975.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e0",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e0.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01347-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e1",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e1.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01347-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e2",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e2.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02948.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e3",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01106.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e4",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e4.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02988.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e5",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e5.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01101-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e6",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e6.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01101-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e7",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e7.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02966.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e8",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e8.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01101.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4e9",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01252-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4ea",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ea.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01252.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4eb",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4eb.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01253.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4ec",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ec.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01252-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4ed",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ed.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01325.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4ee",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ee.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01228-3.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4ef",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ef.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01090.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f0",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f0.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01228-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f1",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f1.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01252-4.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f2",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f2.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-02990.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f3",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01135.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f4",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f4.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01323.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f5",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f5.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01134.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f6",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f6.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01231.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f7",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01152.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f8",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f8.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01253-2.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4f9",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01347.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4fa",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fa.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01192.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4fb",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fb.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01181.jpg"
+      },
+      {
+        "id": "6ad87568ba97ce551c30f4fc",
+        "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fc.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Legacy-Lane-Weddings-Brooksville-engagement-photographer-near-me-maddness-photography-01135-2.jpg"
+      }
+    ]
   },
-  "theme": {
-   "template": "side-note",
-   "bg": "#FFFFFF",
-   "font": "Playfair Display",
-   "fontWeight": "300",
-   "textColor": "#474747",
-   "descFont": "Afacad",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "thin",
-   "layout": "justified"
+  {
+    "key": "forever-begins-here",
+    "category": "Wedding",
+    "name": "Forever Begins Here",
+    "description": "Vineyard light, quiet glances, and the first steps of a lifetime together",
+    "eventDate": "2026-10-19T11:51:44.472Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/forever-begins-here",
+    "imageCount": 344,
+    "cover": {
+      "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d897.jpg",
+      "w": 1333,
+      "h": 2000,
+      "fx": 45,
+      "fy": 74
+    },
+    "theme": {
+      "template": "editorial-love",
+      "bg": "#FFFFFF",
+      "font": "Playfair Display",
+      "fontWeight": "500",
+      "textColor": "#474747",
+      "descFont": "Afacad",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "thin",
+      "layout": "masonry"
+    },
+    "photographer": {
+      "name": "Esteban Gil Photography",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
+      "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
+      "email": "contact@egilphoto.com",
+      "website": "https://www.egilphoto.com/contact-1",
+      "instagram": "https://www.instagram.com/egilphoto/?hl=en"
+    },
+    "setName": "Wedding",
+    "photos": [
+      {
+        "id": "6ad6046d7ae252abb404d891",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d891.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-86.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d892",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d892.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGil_Photography-59.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d893",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d893.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-92.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d894",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d894.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-79.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d895",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d895.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "BrehantCreations_Egilphoto_194.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d896",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d896.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-45.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d897",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d897.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-51.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d898",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d898.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "BrehantCreations_Egilphoto_221.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d899",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d899.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-819.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d89e",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89e.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Esteban_Gil_Photography_-617.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d89f",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89f.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-50.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a1",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a1.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-44.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a3",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-78.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a5",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a5.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-93.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a7",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-87.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a9",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a9.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGil_Photography-229.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8ab",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ab.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Esteban_Gil_Photography_-213.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8ad",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ad.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGil_Photography-72.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8af",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8af.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGil_Photography-66.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b0",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b0.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-91.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b5",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b5.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Esteban_Gil_PhotographyVC_-118.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d89a",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89a.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-85.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d89c",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89c.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography-52.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d89d",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89d.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-46.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a2",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a2.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-826.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a4",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a4.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-82.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a6",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a6.jpg?v=1",
+        "w": 2000,
+        "h": 1180,
+        "name": "Esteban_Gil_Photography_-364.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8a8",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a8.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "Esteban_Gil_Photography_-199.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8aa",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8aa.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-1296.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8ac",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ac.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGil_Photography-148.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b1",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b1.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGil_Photography-174.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b2",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b2.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Esteban_Gil_Photography_-947.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b4",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b4.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-984.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b6",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b6.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography-47.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b7",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Esteban_Gil_Photography_-589.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b8",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b8.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography-53.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8b9",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b9.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-84.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8ba",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ba.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-90.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8bb",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bb.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGil_Photography-73.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8bc",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bc.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-94.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8bd",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bd.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography-80.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8be",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8be.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "Esteban_Gil_Photography_-599.jpg"
+      },
+      {
+        "id": "6ad6046d7ae252abb404d8bf",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bf.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography-57.jpg"
+      },
+      {
+        "id": "6ad604787ae252abb404d8c0",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c0.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography-43.jpg"
+      },
+      {
+        "id": "6ad604787ae252abb404d8c1",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c1.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-994.jpg"
+      },
+      {
+        "id": "6ad604787ae252abb404d8c3",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c3.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "Esteban_Gil_Photography_-837.jpg"
+      },
+      {
+        "id": "6ad604787ae252abb404d8c4",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c4.jpg?v=1",
+        "w": 2000,
+        "h": 1124,
+        "name": "Esteban_Gil_Photography_-374.jpg"
+      },
+      {
+        "id": "6ad604787ae252abb404d8c7",
+        "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c7.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "BrehantCreations_Egilphoto_226.jpg"
+      }
+    ]
   },
-  "photographer": {
-   "name": "",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
-   "logoLight": "",
-   "email": "maddnessphoto@gmail.com",
-   "website": "https://www.maddnessphotography.com/",
-   "instagram": "https://www.instagram.com/maddness.photography/"
+  {
+    "key": "savannah-sean",
+    "category": "Portraits",
+    "name": "SWEL (Portrait Headshots)",
+    "description": "Headshot Happy Hours 2026",
+    "eventDate": "2026-10-21T07:58:20.542Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/savannah-sean",
+    "imageCount": 958,
+    "cover": {
+      "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e492.jpg",
+      "w": 1333,
+      "h": 2000,
+      "fx": 50,
+      "fy": 50
+    },
+    "theme": {
+      "template": "side-story",
+      "bg": "#FFFFFF",
+      "font": "Playfair Display",
+      "fontWeight": "500",
+      "textColor": "#474747",
+      "descFont": "Poppins",
+      "descColor": "#777777",
+      "gridSize": "large",
+      "gridSpacing": "thin",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
+      "logoLight": "",
+      "email": "maddnessphoto@gmail.com",
+      "website": "https://www.maddnessphotography.com/",
+      "instagram": "https://www.instagram.com/maddness.photography/"
+    },
+    "setName": "2026",
+    "photos": [
+      {
+        "id": "6ad870deba97ce551c30e46c",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46c.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06973.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e46d",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06754.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e46f",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46f.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07006-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e46e",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46e.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06740.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e470",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e470.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06492-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e471",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e471.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06845-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e472",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e472.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06958-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e473",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e473.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06230.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e474",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e474.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06542.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e475",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e475.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07112.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e477",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e477.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06436.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e479",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e479.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06126-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47b",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47b.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06163-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47d",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07072.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47f",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47f.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06753-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e481",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e481.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06185.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e483",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e483.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06878-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e485",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e485.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06083-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e487",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e487.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06146.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e489",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e489.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06452-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48b",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48b.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06885-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48d",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06620.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48f",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48f.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06634.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e491",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e491.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07083-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e476",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e476.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06609.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e478",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e478.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06596-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47a",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07102-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47c",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47c.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06153.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e47e",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47e.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06203-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e480",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e480.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06812.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e482",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e482.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06697-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e484",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e484.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06246-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e486",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e486.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06806.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e488",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e488.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06190.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48a",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07067.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48c",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48c.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06351.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e48e",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48e.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06437.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e490",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e490.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06423.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e492",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e492.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06777-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e493",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e493.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "tampa-portrait-photographer-maddness-photography-06392.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e494",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e494.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06386.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e495",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e495.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07107.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e496",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e496.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07067-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e497",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e497.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-07022-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e498",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e498.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06824-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e499",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e499.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06323-2.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e49a",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e49a.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "tampa-portrait-photographer-maddness-photography-06580.jpg"
+      },
+      {
+        "id": "6ad870deba97ce551c30e49b",
+        "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e49b.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "tampa-portrait-photographer-maddness-photography-06594.jpg"
+      }
+    ]
   },
-  "setName": "Sneak Peeks",
-  "photos": [
-   {
-    "id": "6ad87568ba97ce551c30f4d7",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d7.jpg?v=1",
-    "w": 1334,
-    "h": 1999
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4d6",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d6.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4d8",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d8.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4d9",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4d9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4da",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4da.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4db",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4db.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4dc",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4dc.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4dd",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4dd.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4de",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4de.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4df",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4df.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e0",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e0.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e1",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e1.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e2",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e2.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e3",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e4",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e4.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e5",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e5.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e6",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e6.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e7",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e7.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e8",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e8.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4e9",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4e9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4ea",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ea.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4eb",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4eb.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4ec",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ec.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4ed",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ed.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4ee",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ee.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4ef",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4ef.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f0",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f0.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f1",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f1.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f2",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f2.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f3",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f4",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f4.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f5",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f5.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f6",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f6.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f7",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f8",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f8.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4f9",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4f9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4fa",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fa.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4fb",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fb.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad87568ba97ce551c30f4fc",
-    "path": "galleries/6ad87303ba97ce551c30ecf6/web/6ad87568ba97ce551c30f4fc.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   }
-  ]
- },
- {
-  "key": "forever-begins-here",
-  "category": "Wedding",
-  "name": "Forever Begins Here",
-  "description": "Vineyard light, quiet glances, and the first steps of a lifetime together",
-  "eventDate": "2026-10-19T11:51:44.472Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/forever-begins-here",
-  "imageCount": 344,
-  "cover": {
-   "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d897.jpg",
-   "w": 1333,
-   "h": 2000,
-   "fx": 45,
-   "fy": 74
+  {
+    "key": "portrait-sample-gallery",
+    "category": "Portraits",
+    "name": "Portrait Sample gallery",
+    "description": "A portrait session shared with the cameras that made it.",
+    "eventDate": "2026-10-19T12:08:39.589Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/portrait-sample-gallery",
+    "imageCount": 36,
+    "cover": {
+      "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b4.jpg",
+      "w": 2000,
+      "h": 1500,
+      "fx": 67,
+      "fy": 42
+    },
+    "theme": {
+      "template": "side-note",
+      "bg": "#FFFFFF",
+      "font": "Noto Sans",
+      "fontWeight": "300",
+      "textColor": "#474747",
+      "descFont": "Afacad",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "thin",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "Esteban Gil Photography",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
+      "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
+      "email": "contact@egilphoto.com",
+      "website": "https://www.egilphoto.com/contact-1",
+      "instagram": "https://www.instagram.com/egilphoto/?hl=en"
+    },
+    "setName": "Portraits",
+    "photos": [
+      {
+        "id": "6ad608507ae252abb404e0a0",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a0.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005734_(2).jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0a1",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a1.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3499.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0a3",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a3.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3513.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0a4",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a4.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3511.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0a6",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a6.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3538.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0a9",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a9.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3501.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0aa",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0aa.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005735_(2).jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0ab",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ab.jpg?v=1",
+        "w": 1499,
+        "h": 2000,
+        "name": "B0005732-2.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0ac",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ac.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3517.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0ad",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ad.jpg?v=1",
+        "w": 1499,
+        "h": 2000,
+        "name": "B0005738.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0ae",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ae.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3565.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0b0",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b0.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography-047.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0b4",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b4.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "DSCF3567.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0b6",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b6.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3573.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0b8",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b8.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3562.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0b5",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b5.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography-073.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0bf",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0bf.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "EstebanGilPhotography-060.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c0",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c0.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005732_(2).jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c2",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c2.jpg?v=1",
+        "w": 1499,
+        "h": 2000,
+        "name": "B0005732-2_(2).jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c4",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c4.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "DSCF3568.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c5",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c5.jpg?v=1",
+        "w": 2000,
+        "h": 1079,
+        "name": "DSCF3544-Pano.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c6",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c6.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3533.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c8",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c8.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005734.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0c9",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c9.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005735.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0cb",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cb.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3478.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0cc",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cc.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3530.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0cd",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cd.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3524.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0cf",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cf.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3479.jpg"
+      },
+      {
+        "id": "6ad608507ae252abb404e0ce",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ce.jpg?v=1",
+        "w": 2000,
+        "h": 1229,
+        "name": "DSCF3490-Pano.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d0",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d0.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "DSCF3482.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d1",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d1.jpg?v=1",
+        "w": 2000,
+        "h": 1499,
+        "name": "B0005732.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d2",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d2.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3521.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d3",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d3.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "DSCF3508.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d4",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d4.jpg?v=1",
+        "w": 1499,
+        "h": 2000,
+        "name": "B0005738_(2).jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d6",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d6.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "DSCF3536.jpg"
+      },
+      {
+        "id": "6ad6085d7ae252abb404e0d8",
+        "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d8.jpg?v=1",
+        "w": 2000,
+        "h": 1468,
+        "name": "DSCF3554-Pano.jpg"
+      }
+    ]
   },
-  "theme": {
-   "template": "editorial-love",
-   "bg": "#FFFFFF",
-   "font": "Playfair Display",
-   "fontWeight": "500",
-   "textColor": "#474747",
-   "descFont": "Afacad",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "thin",
-   "layout": "masonry"
+  {
+    "key": "wedding-gallery",
+    "category": "Family",
+    "name": "Savannah & Sean",
+    "description": "",
+    "eventDate": "2026-10-21T08:06:51.119Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/wedding-gallery",
+    "imageCount": 297,
+    "cover": {
+      "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec10.jpg",
+      "w": 1999,
+      "h": 1333,
+      "fx": 67,
+      "fy": 56
+    },
+    "theme": {
+      "template": "side-story",
+      "bg": "#FFFFFF",
+      "font": "Playfair Display",
+      "fontWeight": "500",
+      "textColor": "#474747",
+      "descFont": "Afacad",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "thin",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
+      "logoLight": "",
+      "email": "maddnessphoto@gmail.com",
+      "website": "https://www.maddnessphotography.com/",
+      "instagram": "https://www.instagram.com/maddness.photography/"
+    },
+    "setName": "Sneak Peeks",
+    "photos": [
+      {
+        "id": "6ad872dfba97ce551c30ec02",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec02.jpg?v=1",
+        "w": 3600,
+        "h": 2400,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-035.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec00",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec00.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-009.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec01",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec01.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-021.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec03",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec03.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-034.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec04",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec04.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-020.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec05",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec05.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-008.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec06",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec06.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-036.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec07",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec07.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-022.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec08",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec08.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-023.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec09",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec09.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-037.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0b",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0b.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-033.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0d",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-027.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0f",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0f.jpg?v=1",
+        "w": 1332,
+        "h": 1999,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-026.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec11",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec11.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-032.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec13",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec13.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-024.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec15",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec15.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-030.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec17",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec17.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-018.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec19",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec19.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-019.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1b",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1b.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-031.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1d",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1d.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-025.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1f",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1f.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-042.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec21",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec21.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-056.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec23",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec23.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-057.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec25",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec25.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-043.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0a",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-055.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0c",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0c.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-041.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec0e",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0e.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-040.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec10",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec10.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-054.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec12",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec12.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-050.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec14",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec14.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-045.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec16",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec16.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-051.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec18",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec18.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-047.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1a",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1a.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-053.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1c",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1c.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-052.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec1e",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1e.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-046.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec20",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec20.jpg?v=1",
+        "w": 1999,
+        "h": 1334,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-063.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec22",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec22.jpg?v=1",
+        "w": 1999,
+        "h": 1334,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-062.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec24",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec24.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-048.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec26",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec26.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-060.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec27",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec27.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-061.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec28",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec28.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-049.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec29",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec29.jpg?v=1",
+        "w": 1999,
+        "h": 1334,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-065.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2a",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-059.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2b",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2b.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-058.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2c",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2c.jpg?v=1",
+        "w": 1999,
+        "h": 1334,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-064.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2d",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-028.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2e",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2e.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-014.jpg"
+      },
+      {
+        "id": "6ad872dfba97ce551c30ec2f",
+        "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2f.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "fenway-dunedin-engagement-portrait-photographer-maddness-photography-015.jpg"
+      }
+    ]
   },
-  "photographer": {
-   "name": "Esteban Gil Photography",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
-   "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
-   "email": "contact@egilphoto.com",
-   "website": "https://www.egilphoto.com/contact-1",
-   "instagram": "https://www.instagram.com/egilphoto/?hl=en"
+  {
+    "key": "family-shoot",
+    "category": "Family",
+    "name": "Family Shoot",
+    "description": "A little time together, beautifully kept",
+    "eventDate": "2026-10-21T08:02:23.184Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/family-shoot",
+    "imageCount": 43,
+    "cover": {
+      "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96f.jpg",
+      "w": 1333,
+      "h": 2000,
+      "fx": 57,
+      "fy": 49
+    },
+    "theme": {
+      "template": "side-story",
+      "bg": "#FFFFFF",
+      "font": "Montserrat",
+      "fontWeight": "500",
+      "textColor": "#474747",
+      "descFont": "Sen",
+      "descColor": "#777777",
+      "gridSize": "large",
+      "gridSpacing": "thin",
+      "layout": "masonry"
+    },
+    "photographer": {
+      "name": "Esteban Gil Photography",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
+      "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
+      "email": "contact@egilphoto.com",
+      "website": "https://www.egilphoto.com/contact-1",
+      "instagram": "https://www.instagram.com/egilphoto/?hl=en"
+    },
+    "setName": "Family",
+    "photos": [
+      {
+        "id": "6ad87199ba97ce551c30e965",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e965.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-137.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e966",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e966.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography_BA_25-123.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e967",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e967.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-9.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e968",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e968.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-46.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e969",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e969.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-52.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96a",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96a.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-122.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96b",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96b.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-92.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96c",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96c.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-119.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96d",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-83.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96e",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96e.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-130.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e96f",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96f.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-56.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e970",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e970.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-42.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e972",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e972.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-43.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e974",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e974.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-127.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e976",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e976.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-197.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e978",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e978.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "EstebanGilPhotography_BA_25-183.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97a",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-30.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97c",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97c.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-169.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97e",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97e.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-143.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e980",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e980.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography_BA_25-157.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e982",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e982.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-33.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e984",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e984.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-209.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e986",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e986.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-26.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e988",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e988.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-195.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e971",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e971.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-146.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e973",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e973.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-152.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e975",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e975.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "EstebanGilPhotography_BA_25-184.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e977",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e977.jpg?v=1",
+        "w": 2000,
+        "h": 1334,
+        "name": "EstebanGilPhotography_BA_25-179.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e979",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e979.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-161.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97b",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97b.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography_BA_25-38.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97d",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-13.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e97f",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97f.jpg?v=1",
+        "w": 1500,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-163.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e981",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e981.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-198.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e983",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e983.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-16.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e985",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e985.jpg?v=1",
+        "w": 1498,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-166.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e987",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e987.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-15.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e989",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e989.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "EstebanGilPhotography_BA_25-71.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98a",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-114.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98b",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98b.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-110.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98c",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98c.jpg?v=1",
+        "w": 2000,
+        "h": 1500,
+        "name": "EstebanGilPhotography_BA_25-49.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98d",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-107.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98e",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98e.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-77.jpg"
+      },
+      {
+        "id": "6ad87199ba97ce551c30e98f",
+        "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98f.jpg?v=1",
+        "w": 1334,
+        "h": 2000,
+        "name": "EstebanGilPhotography_BA_25-88.jpg"
+      }
+    ]
   },
-  "setName": "Wedding",
-  "photos": [
-   {
-    "id": "6ad6046d7ae252abb404d891",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d891.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d892",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d892.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d893",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d893.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d894",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d894.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d895",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d895.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d896",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d896.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d897",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d897.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d898",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d898.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d899",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d899.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad6046d7ae252abb404d89e",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89e.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d89f",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89f.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a1",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a1.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a3",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a5",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a5.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a7",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a9",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a9.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8ab",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ab.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8ad",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ad.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8af",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8af.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b0",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b0.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b5",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b5.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d89a",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89a.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d89c",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89c.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad6046d7ae252abb404d89d",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d89d.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a2",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a2.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a4",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a4.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a6",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a6.jpg?v=1",
-    "w": 2000,
-    "h": 1180
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8a8",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8a8.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8aa",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8aa.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8ac",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ac.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b1",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b1.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b2",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b2.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b4",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b4.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b6",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b6.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b7",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b8",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b8.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8b9",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8b9.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8ba",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8ba.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8bb",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bb.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8bc",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bc.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8bd",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bd.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8be",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8be.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad6046d7ae252abb404d8bf",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad6046d7ae252abb404d8bf.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad604787ae252abb404d8c0",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c0.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad604787ae252abb404d8c1",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c1.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad604787ae252abb404d8c3",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c3.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad604787ae252abb404d8c4",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c4.jpg?v=1",
-    "w": 2000,
-    "h": 1124
-   },
-   {
-    "id": "6ad604787ae252abb404d8c7",
-    "path": "galleries/6ad604507ae252abb404d873/web/6ad604787ae252abb404d8c7.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   }
-  ]
- },
- {
-  "key": "savannah-sean",
-  "category": "Portraits",
-  "name": "SWEL (Portrait Headshots)",
-  "description": "Headshot Happy Hours 2026",
-  "eventDate": "2026-10-21T07:58:20.542Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/savannah-sean",
-  "imageCount": 958,
-  "cover": {
-   "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e492.jpg",
-   "w": 1333,
-   "h": 2000,
-   "fx": 50,
-   "fy": 50
+  {
+    "key": "goldeen-hour-family",
+    "category": "Family",
+    "name": "Goldeen Hour family",
+    "description": "Sep 2026",
+    "eventDate": "2026-10-19T12:15:10.344Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/goldeen-hour-family",
+    "imageCount": 205,
+    "cover": {
+      "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad60a047ae252abb404e272.jpg",
+      "w": 2000,
+      "h": 1333,
+      "fx": 50,
+      "fy": 63
+    },
+    "theme": {
+      "template": "side-note",
+      "bg": "#FFFFFF",
+      "font": "Playfair Display",
+      "fontWeight": "300",
+      "textColor": "#474747",
+      "descFont": "Poppins",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "thin",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
+      "logoLight": "",
+      "email": "maddnessphoto@gmail.com",
+      "website": "https://www.maddnessphotography.com/",
+      "instagram": "https://www.instagram.com/maddness.photography/"
+    },
+    "setName": "Final Gallery",
+    "photos": [
+      {
+        "id": "6ad609de7ae252abb404e198",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e198.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01448.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19a",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01676.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19c",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19c.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01716.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19e",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19e.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01702.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a0",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a0.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01514.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a2",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a2.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01500.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a4",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a4.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01457-2.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a6",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a6.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01515.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a8",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a8.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01924.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1aa",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1aa.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01930.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1ac",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ac.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01703.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1ae",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ae.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01717.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b3",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01891.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b0",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b0.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01677.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b5",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b5.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01852.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b7",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b7.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01715.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b9",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01926.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1bb",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bb.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01517.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1bd",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bd.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-02023.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1bf",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bf.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01927.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c1",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c1.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01728.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c3",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01674.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c5",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c5.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01648.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e199",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e199.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01476.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c7",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01575-2.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19b",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19b.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01472.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19d",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19d.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01715-2.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e19f",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19f.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01658.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a1",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a1.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01880.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a3",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a3.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01923.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a5",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a5.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01506.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a7",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a7.jpg?v=1",
+        "w": 1333,
+        "h": 1999,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-02033.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1a9",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a9.jpg?v=1",
+        "w": 1332,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-02026.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1ab",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ab.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01936.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1ad",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ad.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01922.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1af",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1af.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01842.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b1",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b1.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01774-2.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b2",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b2.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01498.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b4",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b4.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01465.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b6",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b6.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01897.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1b8",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b8.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01940-2.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1ba",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ba.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01854.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1bc",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bc.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01908.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1be",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1be.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01934.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c0",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c0.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01920.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c2",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c2.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01505.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c4",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c4.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01510.jpg"
+      },
+      {
+        "id": "6ad609de7ae252abb404e1c6",
+        "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c6.jpg?v=1",
+        "w": 1999,
+        "h": 1333,
+        "name": "largo-nature-preserve-family-portraits-near-me-maddness-photography-01921.jpg"
+      }
+    ]
   },
-  "theme": {
-   "template": "side-story",
-   "bg": "#FFFFFF",
-   "font": "Playfair Display",
-   "fontWeight": "500",
-   "textColor": "#474747",
-   "descFont": "Poppins",
-   "descColor": "#777777",
-   "gridSize": "large",
-   "gridSpacing": "thin",
-   "layout": "justified"
-  },
-  "photographer": {
-   "name": "",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
-   "logoLight": "",
-   "email": "maddnessphoto@gmail.com",
-   "website": "https://www.maddnessphotography.com/",
-   "instagram": "https://www.instagram.com/maddness.photography/"
-  },
-  "setName": "2026",
-  "photos": [
-   {
-    "id": "6ad870deba97ce551c30e46c",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46c.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e46d",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e46f",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46f.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e46e",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e46e.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e470",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e470.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e471",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e471.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e472",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e472.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e473",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e473.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e474",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e474.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e475",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e475.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e477",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e477.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e479",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e479.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e47b",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47b.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e47d",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e47f",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47f.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e481",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e481.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e483",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e483.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e485",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e485.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e487",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e487.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e489",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e489.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48b",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48b.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48d",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48f",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48f.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e491",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e491.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e476",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e476.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e478",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e478.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e47a",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e47c",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47c.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e47e",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e47e.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e480",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e480.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e482",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e482.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e484",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e484.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e486",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e486.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e488",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e488.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48a",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48c",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48c.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e48e",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e48e.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e490",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e490.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e492",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e492.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e493",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e493.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad870deba97ce551c30e494",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e494.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e495",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e495.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e496",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e496.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e497",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e497.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e498",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e498.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e499",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e499.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad870deba97ce551c30e49a",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e49a.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad870deba97ce551c30e49b",
-    "path": "galleries/6ad8709cba97ce551c30e391/web/6ad870deba97ce551c30e49b.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   }
-  ]
- },
- {
-  "key": "portrait-sample-gallery",
-  "category": "Portraits",
-  "name": "Portrait Sample gallery",
-  "description": "A portrait session shared with the cameras that made it.",
-  "eventDate": "2026-10-19T12:08:39.589Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/portrait-sample-gallery",
-  "imageCount": 36,
-  "cover": {
-   "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b4.jpg",
-   "w": 2000,
-   "h": 1500,
-   "fx": 67,
-   "fy": 42
-  },
-  "theme": {
-   "template": "side-note",
-   "bg": "#FFFFFF",
-   "font": "Noto Sans",
-   "fontWeight": "300",
-   "textColor": "#474747",
-   "descFont": "Afacad",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "thin",
-   "layout": "justified"
-  },
-  "photographer": {
-   "name": "Esteban Gil Photography",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
-   "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
-   "email": "contact@egilphoto.com",
-   "website": "https://www.egilphoto.com/contact-1",
-   "instagram": "https://www.instagram.com/egilphoto/?hl=en"
-  },
-  "setName": "Portraits",
-  "photos": [
-   {
-    "id": "6ad608507ae252abb404e0a0",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a0.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad608507ae252abb404e0a1",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a1.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0a3",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a3.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0a4",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a4.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0a6",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a6.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0a9",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0a9.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0aa",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0aa.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad608507ae252abb404e0ab",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ab.jpg?v=1",
-    "w": 1499,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0ac",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ac.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0ad",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ad.jpg?v=1",
-    "w": 1499,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0ae",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ae.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0b0",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b0.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0b4",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b4.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad608507ae252abb404e0b6",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b6.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0b8",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b8.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0b5",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0b5.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0bf",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0bf.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0c0",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c0.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad608507ae252abb404e0c2",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c2.jpg?v=1",
-    "w": 1499,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0c4",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c4.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad608507ae252abb404e0c5",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c5.jpg?v=1",
-    "w": 2000,
-    "h": 1079
-   },
-   {
-    "id": "6ad608507ae252abb404e0c6",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c6.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0c8",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c8.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad608507ae252abb404e0c9",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0c9.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad608507ae252abb404e0cb",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cb.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0cc",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cc.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0cd",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cd.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0cf",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0cf.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad608507ae252abb404e0ce",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad608507ae252abb404e0ce.jpg?v=1",
-    "w": 2000,
-    "h": 1229
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d0",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d0.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d1",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d1.jpg?v=1",
-    "w": 2000,
-    "h": 1499
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d2",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d2.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d3",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d3.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d4",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d4.jpg?v=1",
-    "w": 1499,
-    "h": 2000
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d6",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d6.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad6085d7ae252abb404e0d8",
-    "path": "galleries/6ad608477ae252abb404e09a/web/6ad6085d7ae252abb404e0d8.jpg?v=1",
-    "w": 2000,
-    "h": 1468
-   }
-  ]
- },
- {
-  "key": "wedding-gallery",
-  "category": "Family",
-  "name": "Savannah & Sean",
-  "description": "",
-  "eventDate": "2026-10-21T08:06:51.119Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/wedding-gallery",
-  "imageCount": 297,
-  "cover": {
-   "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec10.jpg",
-   "w": 1999,
-   "h": 1333,
-   "fx": 67,
-   "fy": 56
-  },
-  "theme": {
-   "template": "side-story",
-   "bg": "#FFFFFF",
-   "font": "Playfair Display",
-   "fontWeight": "500",
-   "textColor": "#474747",
-   "descFont": "Afacad",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "thin",
-   "layout": "justified"
-  },
-  "photographer": {
-   "name": "",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
-   "logoLight": "",
-   "email": "maddnessphoto@gmail.com",
-   "website": "https://www.maddnessphotography.com/",
-   "instagram": "https://www.instagram.com/maddness.photography/"
-  },
-  "setName": "Sneak Peeks",
-  "photos": [
-   {
-    "id": "6ad872dfba97ce551c30ec02",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec02.jpg?v=1",
-    "w": 3600,
-    "h": 2400
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec00",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec00.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec01",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec01.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec03",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec03.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec04",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec04.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec05",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec05.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec06",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec06.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec07",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec07.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec08",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec08.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec09",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec09.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0b",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0b.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0d",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0f",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0f.jpg?v=1",
-    "w": 1332,
-    "h": 1999
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec11",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec11.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec13",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec13.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec15",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec15.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec17",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec17.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec19",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec19.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1b",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1b.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1d",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1d.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1f",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1f.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec21",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec21.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec23",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec23.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec25",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec25.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0a",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0c",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0c.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec0e",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec0e.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec10",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec10.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec12",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec12.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec14",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec14.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec16",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec16.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec18",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec18.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1a",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1a.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1c",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1c.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec1e",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec1e.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec20",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec20.jpg?v=1",
-    "w": 1999,
-    "h": 1334
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec22",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec22.jpg?v=1",
-    "w": 1999,
-    "h": 1334
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec24",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec24.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec26",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec26.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec27",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec27.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec28",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec28.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec29",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec29.jpg?v=1",
-    "w": 1999,
-    "h": 1334
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2a",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2b",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2b.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2c",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2c.jpg?v=1",
-    "w": 1999,
-    "h": 1334
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2d",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2e",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2e.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad872dfba97ce551c30ec2f",
-    "path": "galleries/6ad8729bba97ce551c30eb3c/web/6ad872dfba97ce551c30ec2f.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   }
-  ]
- },
- {
-  "key": "family-shoot",
-  "category": "Family",
-  "name": "Family Shoot",
-  "description": "A little time together, beautifully kept",
-  "eventDate": "2026-10-21T08:02:23.184Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/family-shoot",
-  "imageCount": 43,
-  "cover": {
-   "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96f.jpg",
-   "w": 1333,
-   "h": 2000,
-   "fx": 57,
-   "fy": 49
-  },
-  "theme": {
-   "template": "side-story",
-   "bg": "#FFFFFF",
-   "font": "Montserrat",
-   "fontWeight": "500",
-   "textColor": "#474747",
-   "descFont": "Sen",
-   "descColor": "#777777",
-   "gridSize": "large",
-   "gridSpacing": "thin",
-   "layout": "masonry"
-  },
-  "photographer": {
-   "name": "Esteban Gil Photography",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
-   "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
-   "email": "contact@egilphoto.com",
-   "website": "https://www.egilphoto.com/contact-1",
-   "instagram": "https://www.instagram.com/egilphoto/?hl=en"
-  },
-  "setName": "Family",
-  "photos": [
-   {
-    "id": "6ad87199ba97ce551c30e965",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e965.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e966",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e966.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad87199ba97ce551c30e967",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e967.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e968",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e968.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e969",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e969.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96a",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96a.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96b",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96b.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96c",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96c.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96d",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96e",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96e.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e96f",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e96f.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e970",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e970.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e972",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e972.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e974",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e974.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e976",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e976.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e978",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e978.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97a",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97c",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97c.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97e",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97e.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e980",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e980.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad87199ba97ce551c30e982",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e982.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e984",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e984.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e986",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e986.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e988",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e988.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e971",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e971.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e973",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e973.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e975",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e975.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad87199ba97ce551c30e977",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e977.jpg?v=1",
-    "w": 2000,
-    "h": 1334
-   },
-   {
-    "id": "6ad87199ba97ce551c30e979",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e979.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97b",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97b.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97d",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e97f",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e97f.jpg?v=1",
-    "w": 1500,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e981",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e981.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e983",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e983.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e985",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e985.jpg?v=1",
-    "w": 1498,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e987",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e987.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e989",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e989.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98a",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98b",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98b.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98c",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98c.jpg?v=1",
-    "w": 2000,
-    "h": 1500
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98d",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98e",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98e.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad87199ba97ce551c30e98f",
-    "path": "galleries/6ad8718fba97ce551c30e962/web/6ad87199ba97ce551c30e98f.jpg?v=1",
-    "w": 1334,
-    "h": 2000
-   }
-  ]
- },
- {
-  "key": "goldeen-hour-family",
-  "category": "Family",
-  "name": "Goldeen Hour family",
-  "description": "Sep 2026",
-  "eventDate": "2026-10-19T12:15:10.344Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/goldeen-hour-family",
-  "imageCount": 205,
-  "cover": {
-   "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad60a047ae252abb404e272.jpg",
-   "w": 2000,
-   "h": 1333,
-   "fx": 50,
-   "fy": 63
-  },
-  "theme": {
-   "template": "side-note",
-   "bg": "#FFFFFF",
-   "font": "Playfair Display",
-   "fontWeight": "300",
-   "textColor": "#474747",
-   "descFont": "Poppins",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "thin",
-   "layout": "justified"
-  },
-  "photographer": {
-   "name": "",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad868dfba97ce551c30d864/Maddy Logo.png",
-   "logoLight": "",
-   "email": "maddnessphoto@gmail.com",
-   "website": "https://www.maddnessphotography.com/",
-   "instagram": "https://www.instagram.com/maddness.photography/"
-  },
-  "setName": "Final Gallery",
-  "photos": [
-   {
-    "id": "6ad609de7ae252abb404e198",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e198.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e19a",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e19c",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19c.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad609de7ae252abb404e19e",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19e.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a0",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a0.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a2",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a2.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a4",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a4.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a6",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a6.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a8",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a8.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1aa",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1aa.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1ac",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ac.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1ae",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ae.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b3",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b0",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b0.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b5",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b5.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b7",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b7.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b9",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1bb",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bb.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1bd",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bd.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1bf",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bf.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c1",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c1.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c3",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c5",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c5.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e199",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e199.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c7",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e19b",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19b.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e19d",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19d.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e19f",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e19f.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a1",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a1.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a3",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a3.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a5",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a5.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a7",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a7.jpg?v=1",
-    "w": 1333,
-    "h": 1999
-   },
-   {
-    "id": "6ad609de7ae252abb404e1a9",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1a9.jpg?v=1",
-    "w": 1332,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e1ab",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ab.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1ad",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ad.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1af",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1af.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b1",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b1.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b2",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b2.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b4",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b4.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b6",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b6.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1b8",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1b8.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1ba",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1ba.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1bc",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1bc.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1be",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1be.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c0",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c0.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c2",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c2.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c4",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c4.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad609de7ae252abb404e1c6",
-    "path": "galleries/6ad609ce7ae252abb404e18d/web/6ad609de7ae252abb404e1c6.jpg?v=1",
-    "w": 1999,
-    "h": 1333
-   }
-  ]
- },
- {
-  "key": "chasing-light",
-  "category": "Other",
-  "name": "Chasing Light",
-  "description": "A couple, a golden wall, and a morning of movement, shadow, and play",
-  "eventDate": "2026-10-19T12:05:57.468Z",
-  "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/chasing-light",
-  "imageCount": 45,
-  "cover": {
-   "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb2.jpg",
-   "w": 2048,
-   "h": 1365,
-   "fx": 56,
-   "fy": 71
-  },
-  "theme": {
-   "template": "editorial-love",
-   "bg": "#FFFFFF",
-   "font": "Plus Jakarta Sans",
-   "fontWeight": "500",
-   "textColor": "#474747",
-   "descFont": "Afacad",
-   "descColor": "#777777",
-   "gridSize": "medium",
-   "gridSpacing": "none",
-   "layout": "justified"
-  },
-  "photographer": {
-   "name": "Esteban Gil Photography",
-   "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
-   "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
-   "email": "contact@egilphoto.com",
-   "website": "https://www.egilphoto.com/contact-1",
-   "instagram": "https://www.instagram.com/egilphoto/?hl=en"
-  },
-  "setName": "Couple",
-  "photos": [
-   {
-    "id": "6ad607c37ae252abb404dfa7",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa5",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa5.gif?v=1",
-    "w": 1500,
-    "h": 1000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfaa",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfaa.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa9",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfab",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfab.jpg?v=1",
-    "w": 2000,
-    "h": 1125
-   },
-   {
-    "id": "6ad607c37ae252abb404dfac",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfac.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfad",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfad.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfae",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfae.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfaf",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfaf.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb0",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb0.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb1",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb1.jpg?v=1",
-    "w": 2000,
-    "h": 1125
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb2",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb2.jpg?v=1",
-    "w": 2048,
-    "h": 1365
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa8",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa8.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb3",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb3.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa6",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa6.gif?v=1",
-    "w": 1500,
-    "h": 1000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb5",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb5.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb6",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb6.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb7",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb7.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb4",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb4.gif?v=1",
-    "w": 1500,
-    "h": 1000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb8",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb8.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfb9",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb9.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfba",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfba.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfbb",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfbb.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df90",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df90.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404dfbc",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfbc.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df91",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df91.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404df92",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df92.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404df93",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df93.gif?v=1",
-    "w": 1500,
-    "h": 1000
-   },
-   {
-    "id": "6ad607c37ae252abb404df94",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df94.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df95",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df95.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404df96",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df96.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404df97",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df97.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df98",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df98.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df99",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df99.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df9a",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9a.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   },
-   {
-    "id": "6ad607c37ae252abb404df9b",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9b.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df9c",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9c.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df9d",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9d.jpg?v=1",
-    "w": 2000,
-    "h": 1125
-   },
-   {
-    "id": "6ad607c37ae252abb404df9e",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9e.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404df9f",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9f.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa0",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa0.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa1",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa1.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa2",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa2.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa3",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa3.jpg?v=1",
-    "w": 2000,
-    "h": 1333
-   },
-   {
-    "id": "6ad607c37ae252abb404dfa4",
-    "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa4.jpg?v=1",
-    "w": 1333,
-    "h": 2000
-   }
-  ]
- }
+  {
+    "key": "chasing-light",
+    "category": "Other",
+    "name": "Chasing Light",
+    "description": "A couple, a golden wall, and a morning of movement, shadow, and play",
+    "eventDate": "2026-10-19T12:05:57.468Z",
+    "url": "https://aftershootgalleriesstudio.gallery.aftershoot.com/chasing-light",
+    "imageCount": 45,
+    "cover": {
+      "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb2.jpg",
+      "w": 2048,
+      "h": 1365,
+      "fx": 56,
+      "fy": 71
+    },
+    "theme": {
+      "template": "editorial-love",
+      "bg": "#FFFFFF",
+      "font": "Plus Jakarta Sans",
+      "fontWeight": "500",
+      "textColor": "#474747",
+      "descFont": "Afacad",
+      "descColor": "#777777",
+      "gridSize": "medium",
+      "gridSpacing": "none",
+      "layout": "justified"
+    },
+    "photographer": {
+      "name": "Esteban Gil Photography",
+      "logoDark": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e9ba97ce551c31090b/EG Dark Logo.png",
+      "logoLight": "https://cdn.aftershoot.co/gallery/photographer-assets/5C1oS8RHFoeGmbDYsEPx9XpE3KJ2/6ad889e3ba97ce551c31090a/EG White Logo.png",
+      "email": "contact@egilphoto.com",
+      "website": "https://www.egilphoto.com/contact-1",
+      "instagram": "https://www.instagram.com/egilphoto/?hl=en"
+    },
+    "setName": "Couple",
+    "photos": [
+      {
+        "id": "6ad607c37ae252abb404dfa7",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-48.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa5",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa5.gif?v=1",
+        "w": 1500,
+        "h": 1000,
+        "name": "009A5147.gif"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfaa",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfaa.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-8.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa9",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-9.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfab",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfab.jpg?v=1",
+        "w": 2000,
+        "h": 1125,
+        "name": "2Esteban_Gil_Photography_-12.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfac",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfac.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-38.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfad",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfad.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-39.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfae",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfae.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-11.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfaf",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfaf.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-29.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb0",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb0.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-15.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb1",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb1.jpg?v=1",
+        "w": 2000,
+        "h": 1125,
+        "name": "2Esteban_Gil_Photography_-14.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb2",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb2.jpg?v=1",
+        "w": 2048,
+        "h": 1365,
+        "name": "2Esteban_Gil_Photography_-28.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa8",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa8.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-13.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb3",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb3.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-16.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa6",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa6.gif?v=1",
+        "w": 1500,
+        "h": 1000,
+        "name": "009A5740.gif"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb5",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb5.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-17.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb6",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb6.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-32.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb7",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb7.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-26.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb4",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb4.gif?v=1",
+        "w": 1500,
+        "h": 1000,
+        "name": "009A5252.gif"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb8",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb8.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-27.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfb9",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfb9.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-33.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfba",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfba.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-25.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfbb",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfbb.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-31.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df90",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df90.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-18.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfbc",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfbc.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-19.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df91",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df91.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-30.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df92",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df92.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-24.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df93",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df93.gif?v=1",
+        "w": 1500,
+        "h": 1000,
+        "name": "009A5314.gif"
+      },
+      {
+        "id": "6ad607c37ae252abb404df94",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df94.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-20.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df95",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df95.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-34.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df96",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df96.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-6.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df97",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df97.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-35.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df98",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df98.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-21.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df99",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df99.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-37.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9a",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9a.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-23.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9b",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9b.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-22.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9c",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9c.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-36.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9d",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9d.jpg?v=1",
+        "w": 2000,
+        "h": 1125,
+        "name": "2Esteban_Gil_Photography_-45.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9e",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9e.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-44.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404df9f",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404df9f.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-46.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa0",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa0.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-47.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa1",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa1.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-43.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa2",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa2.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-42.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa3",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa3.jpg?v=1",
+        "w": 2000,
+        "h": 1333,
+        "name": "2Esteban_Gil_Photography_-40.jpg"
+      },
+      {
+        "id": "6ad607c37ae252abb404dfa4",
+        "path": "galleries/6ad607a57ae252abb404df74/web/6ad607c37ae252abb404dfa4.jpg?v=1",
+        "w": 1333,
+        "h": 2000,
+        "name": "2Esteban_Gil_Photography_-41.jpg"
+      }
+    ]
+  }
 ]
